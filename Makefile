@@ -3,7 +3,7 @@
 gh-pages:
 	git clone -b gh-pages git@github.com:wacky612/GenkaiTourWorldList.git gh-pages
 
-all: wget merge update deploy
+all: wget merge update
 
 wget:
 	wget -i private/url -O cache/themes.json
