@@ -1,0 +1,7 @@
+[Unit]
+Description=GenkaiTour Generate World List
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/make all
+WorkingDirectory=/home/wacky/GenkaiTourWorldList

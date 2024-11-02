@@ -1,0 +1,7 @@
+[Unit]
+Description=GenkaiTour Deploy World List
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/make deploy
+WorkingDirectory=/home/wacky/GenkaiTourWorldList
