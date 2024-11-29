@@ -9,10 +9,10 @@ wget:
 	wget -i private/url -O cache/themes.json
 
 merge:
-	/usr/bin/python merge.py > cache/merged_list.json
+	/usr/bin/python merge.py
 
 update:
-	cp cache/merged_list.json json/world_list.json
+	cp cache/data.json json/data.json
 
 deploy:
 	/bin/sh deploy.sh
