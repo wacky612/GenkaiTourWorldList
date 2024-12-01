@@ -15,6 +15,8 @@ for i in range(len(data), len(themes)):
         dic2 = {}
         dic2['ID'] = w['worldId']
         dic2['Name'] = w['worldName']
+        dic2['RecommendedCapacity'] = w['recommendedCapacity']
+        dic2['Capacity'] = w['capacity']
         dic['Worlds'].append(dic2)
     data.append(dic)
 
