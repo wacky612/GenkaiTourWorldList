@@ -1,8 +1,8 @@
 curdir := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 
-.PHONY: all wget merge update deploy clean prepare
+.PHONY: all wget merge update complement deploy clean prepare
 
-all: wget merge update
+all: wget merge update complement
 
 prepare: .venv gh-pages
 
@@ -21,6 +21,9 @@ merge:
 
 update:
 	cp cache/data.json json/data.json
+
+complement:
+	$(curdir)/.venv/bin/python complement.py
 
 deploy:
 	/bin/sh deploy.sh
