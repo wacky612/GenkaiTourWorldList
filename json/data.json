@@ -12862,5 +12862,54 @@
         }
       }
     ]
+  },
+  {
+    "Category": "第137回 VKet",
+    "Worlds": [
+      {
+        "ID": "wrld_a2d0ac87-b44d-4516-9f64-44a4568112ed",
+        "Name": "例の空き地",
+        "RecommendedCapacity": 32,
+        "Capacity": 64,
+        "Description": "土管が三つ並んだあの空き地っぽい空き地。ドラム缶にちょっと仕掛けあり。",
+        "Platform": {
+          "PC": true,
+          "Android": false
+        }
+      },
+      {
+        "ID": "wrld_23db2322-5f36-45b3-8ed9-22a79d322d0a",
+        "Name": "Vket2024W Parareal Mt․ Fuji",
+        "RecommendedCapacity": 30,
+        "Capacity": 60,
+        "Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Parareal Mt․ Fuji is a corporate exhibition venue of Vket2024 Winter․ パラリアル フジヤマはVket2024 Winterの企業出展会場です。",
+        "Platform": {
+          "PC": true,
+          "Android": false
+        }
+      },
+      {
+        "ID": "wrld_24d9805f-c1da-491b-bd0a-60593a51cd70",
+        "Name": "Vket2024W Parareal Odaiba",
+        "RecommendedCapacity": 30,
+        "Capacity": 60,
+        "Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Parareal Odaiba is a corporate exhibition venue of Vket2024 Winter․ パラリアルお台場はVket2024 Winterの企業出展会場です。",
+        "Platform": {
+          "PC": true,
+          "Android": false
+        }
+      },
+      {
+        "ID": "wrld_9677f070-c72f-4e96-9b92-c33c7305295f",
+        "Name": "Vket2024W Parareal Las Vegas",
+        "RecommendedCapacity": 30,
+        "Capacity": 60,
+        "Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Parareal Las Vegas is a corporate exhibition venue of Vket2024 Winter․ パラリアルラスベガスはVket2024 Winterの企業出展会場です。",
+        "Platform": {
+          "PC": true,
+          "Android": false
+        }
+      }
+    ]
   }
 ]
