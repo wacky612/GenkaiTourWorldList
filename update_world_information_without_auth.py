@@ -1,49 +1,23 @@
 #!/usr/bin/env python
 
-from http.cookiejar import Cookie
-
 import vrchatapi
-from vrchatapi.api import authentication_api
 from vrchatapi.api.worlds_api import WorldsApi
 
 import time
 import json
 from pathlib import Path
 
-auth   = json.loads(Path('private/auth.json').read_text())
-cookie = json.loads(Path('private/cookie.json').read_text())
-data   = json.loads(Path('json/data.json').read_text())
+data = json.loads(Path('json/data.json').read_text())
+skip = json.loads(Path('json/skip.json').read_text())
 
-def make_cookie(name, value):
-    return Cookie(0, name, value,
-                  None, False,
-                  "api.vrchat.cloud", True, False,
-                  "/", False,
-                  False,
-                  173106866300,
-                  False,
-                  None,
-                  None, {})
-
-configuration = vrchatapi.Configuration(
-    username = auth['Username'],
-    password = auth['Password'],
-)
-
-with vrchatapi.ApiClient(configuration) as api_client:
+with vrchatapi.ApiClient() as api_client:
     api_client.user_agent = 'WorldInformationFetcher'
-    api_client.rest_client.cookie_jar.set_cookie(make_cookie('auth'         , cookie['AuthCookie']         ))
-    api_client.rest_client.cookie_jar.set_cookie(make_cookie('twoFactorAuth', cookie['TwoFactorAuthCookie']))
-
-    auth_api = authentication_api.AuthenticationApi(api_client)
-    current_user = auth_api.get_current_user()
-    print("Logged in as:", current_user.display_name)
 
     worlds_api = WorldsApi(api_client)
 
     for c in range(0, len(data)):
         for w in range(0, len(data[c]['Worlds'])):
-            if (data[c]['Worlds'][w]['ID'] is not None) and (not ('Platform' in data[c]['Worlds'][w])):
+            if (data[c]['Worlds'][w]['ID'] is not None) and (not (data[c]['Worlds'][w]['ID'] in skip)):
                 try:
                     world = worlds_api.get_world(data[c]['Worlds'][w]['ID'])
                     data[c]['Worlds'][w]['Name']                = world.name
@@ -52,11 +26,11 @@ with vrchatapi.ApiClient(configuration) as api_client:
                     data[c]['Worlds'][w]['Description']         = world.description
                     data[c]['Worlds'][w]['ReleaseStatus']       = world.release_status
 
-                    pc      = True in [p.platform == 'standalonewindows' for p in world.unity_packages]
-                    android = True in [p.platform == 'android'           for p in world.unity_packages]
-                    data[c]['Worlds'][w]['Platform']            = {}
-                    data[c]['Worlds'][w]['Platform']['PC']      = pc
-                    data[c]['Worlds'][w]['Platform']['Android'] = android
+                    #pc      = True in [p.platform == 'standalonewindows' for p in world.unity_packages]
+                    #android = True in [p.platform == 'android'           for p in world.unity_packages]
+                    #data[c]['Worlds'][w]['Platform']            = {}
+                    #data[c]['Worlds'][w]['Platform']['PC']      = pc
+                    #data[c]['Worlds'][w]['Platform']['Android'] = android
                     
                     print(f'第{c+1:03}回-{w+1:02} Updated   ワールド名: {world.name}')
 
