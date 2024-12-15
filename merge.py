@@ -20,4 +20,4 @@ for i in range(len(data), len(themes)):
         dic['Worlds'].append(dic2)
     data.append(dic)
 
-Path('cache/data.json').write_text(json.dumps(data, indent=4, ensure_ascii=False))
+Path('json/data.json').write_text(json.dumps(data, indent=4, ensure_ascii=False))

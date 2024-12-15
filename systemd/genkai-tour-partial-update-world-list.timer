@@ -1,0 +1,9 @@
+[Unit]
+Description=GenkaiTour Partial Update World List On Wednesday 10:00
+
+[Timer]
+OnCalendar=Wed *-*-* 10:00:00
+Persistent=true     
+ 
+[Install]
+WantedBy=timers.target

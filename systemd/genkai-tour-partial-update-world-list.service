@@ -1,0 +1,7 @@
+[Unit]
+Description=GenkaiTour Generate World List
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/make partial-update
+WorkingDirectory=/home/wacky/GenkaiTourWorldList
