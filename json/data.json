@@ -14013,5 +14013,130 @@
                 "ReleaseStatus": "public"
             }
         ]
+    },
+    {
+        "Category": "第138回 西洋",
+        "Worlds": [
+            {
+                "ID": "wrld_151d125a-9842-4510-a2b3-603b690ea3e1",
+                "Name": "Versailles Hall of Mirrors",
+                "RecommendedCapacity": 32,
+                "Capacity": 80,
+                "Description": "Digital reconstruction of the Versailles Hall of Mirrors",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_f98ef072-86eb-4431-9505-212345650dbb",
+                "Name": "Night Church",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "Cathedral from 1400s․ Inspiration taken from Regensburg Cathedral in Germany․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_5c091e61-0f53-4409-ab0a-0fa8a3114806",
+                "Name": "Cinque Terre - Marina di Riomaggiore（Night）",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "The port of ＂Riomaggiore＂ in Cinque Terre․ one of Italy's famous tourist destinations․ is reproduced in VR․ Night version․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_20239bc9-22b8-482d-b9e3-6c86ae5db3b4",
+                "Name": "Venice Grand Canal Tour Quest",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Venice Grand Canal Tour Quest",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_4a04e14b-04a9-45af-a9ab-baa0094af435",
+                "Name": "ウエスタン集会場_WesternShukaijo",
+                "RecommendedCapacity": 24,
+                "Capacity": 48,
+                "Description": "2023年6月17日開催のVRC_ウエスタン集会で使用したウエスタン集会場です。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_dbe37582-aa96-43e9-a557-96cb955bd419",
+                "Name": "VR Art Museum 西洋絵画美術館 v1․1",
+                "RecommendedCapacity": 32,
+                "Capacity": 64,
+                "Description": "日本人向けの古典絵画から19世紀頃までのパブリックドメインの絵画を原寸大で展示しています。 v1․0 2022⁄6⁄4 公開 v1․1 2022⁄7⁄4 絵画の増設、縮尺の修正、解説の修正、秘密の部屋の追加",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_619f6bc0-f30b-4c03-b0a5-6cbb043a094c",
+                "Name": "English Cottage",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "Featuring a day⁄night cycle‚ take in the natural beauty of the English Countryside․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_d6266982-45a0-4fac-ba06-f79091a35d14",
+                "Name": "Quietude Village",
+                "RecommendedCapacity": 50,
+                "Capacity": 80,
+                "Description": "Discover a European-inspired village with a quaint café‚ a cozy apartment‚ and balconies to chill in․ Find peace in the towns serene atmosphere‚ gently interrupted by the chimes of the clock tower and maybe․․․․ a train? If you like this world‚ consider suporting my work on Patreon patreon․com⁄WindFenix",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_28e979dc-5e94-4729-8d30-34a4bd6f64f7",
+                "Name": "Yayoi seaside yard （WIP）",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "事故ったせいでシーンがなくなったから制作途中であげたテスト用のもの、近いうちにやり直します。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_7f59eba6-a013-46af-ae06-ca4151efa75e",
+                "Name": "Oia Lookout",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "Enjoy the flawless sunset from the mountainside of Oia Lookoutǃ A luxurious spa in the heart of Thera‚ Santorini Greece",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
     }
 ]
