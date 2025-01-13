@@ -466,7 +466,7 @@
                 "Name": "Gion Street - 祇園通り日本",
                 "RecommendedCapacity": 80,
                 "Capacity": 80,
-                "Description": "Inspired by the Gion area in Kyoto - Made for 2024 NYE ｜ 京都の祇園エリアにインスパイアされて - 2024年NYEのために作られた",
+                "Description": "今夜、祇園通りワールドにて、恒例の大晦日年越しカウントダウン花火イベントが行われます！ 今年は午前0時に星空から天の蛇が舞い降り、新年の幕開けを告げる！ 12月31日23˸59（1分前）から始まりますので、どうぞお見逃しなく！",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -1214,7 +1214,7 @@
                 "Name": "MARSIUM_HALL",
                 "RecommendedCapacity": 30,
                 "Capacity": 60,
-                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2024⁄08⁄04 更新",
+                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2024⁄12⁄23 更新",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -1324,8 +1324,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "Neko Beach Festival"
+                "ID": "wrld_a0857e29-bf59-4438-a8b9-02aed172c86b",
+                "Name": "Neo Neko Beach",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "Neo Neko Beach Festivalǃ Come join the summer festival and relaxǃ Switch to your desired time of day‚ grab a drink and have fun with friends․ Immersive experience‚ recommended audio 60％․ PC Only․ Created By LegendsVR‚ Commissioned By Lanfear_vr",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             },
             {
                 "ID": "wrld_00afa982-8256-44b9-8e27-36eb9f8edf39",
@@ -1376,8 +1384,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "寝転ん盆踊り2022"
+                "ID": "wrld_521a0c59-5e0b-417f-bb18-acefab194d5d",
+                "Name": "寝転ん盆踊り2022",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "『寝転ん盆唄』AMOKA 作詞作曲：もいさん 歌：あいぽ",
+                "ReleaseStatus": "private",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             }
         ]
     },
@@ -1421,8 +1437,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "A light of Firefly"
+                "ID": "wrld_104449aa-f6ac-4f81-8720-f84edd6764b9",
+                "Name": "A light of Firefly",
+                "RecommendedCapacity": 12,
+                "Capacity": 24,
+                "Description": "Firefly that will fade away someday‚ Scenery world with lyrics song",
+                "ReleaseStatus": "private",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             },
             {
                 "ID": "wrld_5eab4880-9ccf-4e9f-b113-2aded29aa65d",
@@ -1704,8 +1728,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "焼肉-KAZUTAKO- 고깃집"
+                "ID": "wrld_00935304-9611-41b8-9c04-ffb60e410107",
+                "Name": "新・焼肉-KAZUTAKO- 고깃집",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "焼肉-KAZUTAKO- オープンしました。飲み会、お誕生会など、ぜひわいわいと楽しんでください。japanese style bar‚ japanese pub‚ barbecue restaurant‚ Korean BBQ‚ 야키니쿠‚ 고기가",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
             },
             {
                 "ID": "wrld_d38115bd-3758-41dc-967e-8b0821253adc",
@@ -2422,10 +2454,10 @@
             },
             {
                 "ID": "wrld_1862c1c4-418c-48dd-93ca-7a90e71f05e1",
-                "Name": "寝転ん宴会場 Izakaya",
+                "Name": "【旧world】寝転ん宴会場",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
-                "Description": "居酒屋の宴会場を作りました忘新年会・誕生会・飲み会イベントにどうぞCreated a banquet hall for a tavernFor New Year's Eve parties‚ birthday parties‚ and drinking events",
+                "Description": "寝転ん宴会場․v2 として新作出しております。よろしくお願いします。",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -2666,7 +2698,7 @@
             },
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
-                "Name": "Sweets Dishǃ - Xmas",
+                "Name": "Sweets Dishǃ - New Yearǃ",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
@@ -2737,8 +2769,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "SWEETLAND"
+                "ID": "wrld_6669612b-46b1-480f-841b-9d9fc30e6e1e",
+                "Name": "SWEETLAND",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "お菓子をモチーフにした遊園地です！",
+                "ReleaseStatus": "private",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             }
         ]
     },
@@ -2835,8 +2875,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "VR餅つき-pounding mochi- "
+                "ID": "wrld_26000f05-6dcf-4dfa-aac5-49138a2dbd96",
+                "Name": "VR餅つき-pounding mochi-",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "1000回で年が明けます。10000回ぶっ叩くとリセットされます",
+                "ReleaseStatus": "private",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             },
             {
                 "ID": "wrld_1ed36b20-0786-4699-a7b7-ff534e0cb74e",
@@ -2855,7 +2903,7 @@
                 "Name": "初日の出 -hatsu hinode-",
                 "RecommendedCapacity": 60,
                 "Capacity": 60,
-                "Description": "鎮守の森 初日の出 2024年版",
+                "Description": "鎮守の森 初日の出 2025年版",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -3272,8 +3320,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "Sweets Dishǃ ˸ Valentine"
+                "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
+                "Name": "Sweets Dishǃ - New Yearǃ",
+                "RecommendedCapacity": 60,
+                "Capacity": 80,
+                "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
             },
             {
                 "ID": "wrld_4bca4ea4-2c99-4382-9bf7-8b1285390856",
@@ -3483,8 +3539,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "VoN˸ Fragmented Love ＆ Memory "
+                "ID": "wrld_10af394e-064d-430c-b0d5-84f7780f2881",
+                "Name": "VoN˸ Fragmented Love ＆ Silence",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "［TRIGGER WARNING］ - haunted by an emptiness in memory - ＠VonVRC on Twitter for more of my work․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             },
             {
                 "ID": "wrld_75f9975d-9659-428c-a0cf-b8ddcf276690",
@@ -3695,10 +3759,10 @@
         "Worlds": [
             {
                 "ID": "wrld_b7d1f714-cca2-437c-9b7c-efb34782d08a",
-                "Name": "Magitek Reactor",
+                "Name": "Reactor",
                 "RecommendedCapacity": 30,
                 "Capacity": 60,
-                "Description": "A hidden laboratory containing a reactor able to harness Magic․ An RP world for Metaverse․",
+                "Description": "A hidden laboratory containing a reactor․ An RP world for Metaverse․",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -3807,8 +3871,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "神隠しの時めぐり"
+                "ID": "wrld_e626a28f-41e5-49a5-bc10-edb9be937625",
+                "Name": "神隠しの時めぐり",
+                "RecommendedCapacity": 30,
+                "Capacity": 40,
+                "Description": "作成協力 karankoe․まぴおら․ ver․1․5 2024年の春の終わりにクローズします。",
+                "ReleaseStatus": "private",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             },
             {
                 "ID": "wrld_53be2298-9e66-4c2c-852b-446e4596f10a",
@@ -5411,7 +5483,7 @@
             },
             {
                 "ID": "wrld_54da9c33-0313-4971-9c0f-4e7d7214a800",
-                "Name": "通行止 -Horror closed road-",
+                "Name": "【企画用】通行止 -Horror closed road-",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
                 "Description": "短めのホラーワールドです。動画企画用で制作。",
@@ -7387,7 +7459,7 @@
                 "Name": "VRChatここから始めました -Kokokara JP-",
                 "RecommendedCapacity": 32,
                 "Capacity": 32,
-                "Description": "VisitorはTrustedに、TrustedはVisitorに、なってゆきます。 技術担当：mameneko",
+                "Description": "VisitorはTrustedに、TrustedはVisitorに、なってゆきます。 技術担当：mameneko・kimkim",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -7547,7 +7619,7 @@
                 "ID": "wrld_315250b4-44f9-4b48-902c-23388824617c",
                 "Name": "Christmas Alley",
                 "RecommendedCapacity": 16,
-                "Capacity": 46,
+                "Capacity": 80,
                 "Description": "Stay warm․ Please consider donating to your local homeless shelter this Christmas․",
                 "Platform": {
                     "PC": true,
@@ -7613,7 +7685,7 @@
                     "PC": true,
                     "Android": false
                 },
-                "ReleaseStatus": "public"
+                "ReleaseStatus": "private"
             }
         ]
     },
@@ -8036,7 +8108,7 @@
                 "Name": "Just B Club 3",
                 "RecommendedCapacity": 40,
                 "Capacity": 80,
-                "Description": "Merry Christmasǃ Welcome to JBC3ǃ Games‚ pool‚ private rooms‚ stage‚ swimming pool‚ hot-tubs‚ NPC․․․ everythingǃ",
+                "Description": "Welcome to JBC3ǃ Games‚ pool‚ private rooms‚ stage‚ swimming pool‚ hot-tubs‚ NPC․․․ everythingǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -8274,7 +8346,7 @@
                 "Name": "剣術場",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
-                "Description": "切磋琢磨で高みを目指しましょう。＃VRC剣術研究会 ＃VRC撃剣部 ⁄∗0717 fix ⁄∗カタナキットおためしペデスタル設置中。 詳しくは X˸ ＠lemon8_vrchat ⁄∗ポールアーム システムおためしペデスタル設置中。詳しくは X˸ ＠Ogaki_Doe",
+                "Description": "切磋琢磨で高みを目指しましょう。＃VRC剣術研究会 ＃VRC撃剣部 ⁄∗1217 fix ⁄∗カタナキットおためしペデスタル設置中。 詳しくは X˸ ＠lemon8_vrchat ⁄∗ポールアーム システムおためしペデスタル設置中。詳しくは X˸ ＠Ogaki_Doe",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -8286,7 +8358,7 @@
                 "Name": "Kyoto Kiyomizu-dera Sando",
                 "RecommendedCapacity": 32,
                 "Capacity": 64,
-                "Description": "【更新2024․4․9】春限定 桜バージョンに更新しました！ ⁄ Digital archive of streets and wagashi （Japanese sweets） of Sannei-zaka‚ Ninei-zaka‚ and Yasaka-dori‚ the approach to Kiyomizu-dera Temple‚ Kyoto‚ by Photogrammetry․ How about virtual sightseeing for eating and walking? ＃京都VR 京都、清水寺の参道「産寧坂」「二年坂」「八坂通」の町並みや和菓子をフォトグラメトリによりデジタルアーカイブしました。 バーチャル食べ歩き観光なんていかが？",
+                "Description": "【更新2024․12․31】 お正月バージョンに更新しました！ ⁄ Digital archive of streets and wagashi （Japanese sweets） of Sannei-zaka‚ Ninei-zaka‚ and Yasaka-dori‚ the approach to Kiyomizu-dera Temple‚ Kyoto‚ by Photogrammetry․ How about virtual sightseeing for eating and walking? ＃京都VR 京都、清水寺の参道「産寧坂」「二年坂」「八坂通」の町並みや和菓子をフォトグラメトリによりデジタルアーカイブしました。 バーチャル食べ歩き観光なんていかが？",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -9745,7 +9817,7 @@
                 "Name": "City of Liliya",
                 "RecommendedCapacity": 32,
                 "Capacity": 64,
-                "Description": "Una città chiamata Liliya․․․ （Ver․ 1․1․22）",
+                "Description": "Una città chiamata Liliya․․․ （Ver․ 1․1․23）",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -10321,7 +10393,7 @@
                 "Name": "OperationBritish U․C․0079",
                 "RecommendedCapacity": 16,
                 "Capacity": 79,
-                "Description": "人類が増えすぎた人口を宇宙に移民させるようになって既に半世紀が過ぎていた。 地球のまわりの巨大な人口都市は人類の第二の故郷となり、人々はそこで子を産み、育て、そして死んでいった。 宇宙世紀0079。 地球に最も遠い宇宙都市サイド3はジオン公国を名乗り地球連邦政府に独立戦争に挑んできた。 この1ヶ月余りの戦いでジオン公国と連邦軍は総人口の半数を死に至らしめた。 人々は自らの行為に恐怖した。 戦争は膠着状態に入り、8ヶ月余りが過ぎた。",
+                "Description": "人類が増えすぎた人口を宇宙に移民させるようになって既に半世紀が過ぎていた。 地球のまわりの巨大な人工都市は人類の第二の故郷となり、人々はそこで子を産み、育て、そして死んでいった。 宇宙世紀0079。 地球に最も遠い宇宙都市サイド3はジオン公国を名乗り地球連邦政府に独立戦争に挑んできた。 この1ヶ月余りの戦いでジオン公国と連邦軍は総人口の半数を死に至らしめた。 人々は自らの行為に恐怖した。 戦争は膠着状態に入り、8ヶ月余りが過ぎた。",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -10708,7 +10780,7 @@
                 "Name": "Bird Cafe -HIDAMARI-",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "鳥さんたちと触れ合いながらくつろげる鳥カフェワールドです。［2024⁄11⁄22更新］カフェのメニューを追加・植木のモデル変更、その他全体的な表現方法の見直しを行いました。",
+                "Description": "鳥さんたちと触れ合いながらくつろげる鳥カフェワールドです。［2024⁄11⁄22更新］カフェのメニューを追加・植木のモデル変更、その他全体的な表現方法の見直しを行いました。［2024⁄12⁄12更新］プレゼンテーション用ギミックSlidenを追加しました。",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -11042,7 +11114,7 @@
                 "Name": "Anique Museum - serial experiments lain Weird展",
                 "RecommendedCapacity": 16,
                 "Capacity": 80,
-                "Description": "serial experiments lain Weird Exhibition 2024-11-27 re-opened",
+                "Description": "serial experiments lain Weird Exhibition˸ 2025年1月19日 まで開催中！",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -11265,10 +11337,10 @@
             },
             {
                 "ID": "wrld_0116a019-a276-4578-ab65-8cbb513f8b35",
-                "Name": "Portal Index -11332024-",
+                "Name": "Portal Index -12272024-",
                 "RecommendedCapacity": 40,
                 "Capacity": 80,
-                "Description": "Tag base search system for world portals; Amount of world˸ 929 Update every monthǃ",
+                "Description": "Tag base search system for world portals; Amount of world˸ 1010 Update every monthǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -11336,8 +11408,16 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": null,
-                "Name": "歪んだ洗面台／Ｎｅｏｎ Ｐｏｏｌｓｉｄｅ"
+                "ID": "wrld_e7b2e10a-d49b-426e-a648-bbe616022df4",
+                "Name": "歪んだ洗面台／Ｎｅｏｎ Ｐｏｏｌｓｉｄｅ",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Ｖａｐｏｒｗａｖｅ首都圏外郭放水路コンクリー",
+                "ReleaseStatus": "private",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
             }
         ]
     },
@@ -11700,7 +11780,7 @@
                 "Name": "Sunrise Pierǃ",
                 "RecommendedCapacity": 40,
                 "Capacity": 80,
-                "Description": "Welcome to the Sunrise District of Afterdark Cityǃ Enjoy the surf and the sand in this lovely locale on the coastǃǃ FEATURES PARKOUR RAILGRINDING - SHOPS AND INVENTORY - CONTROLLABLE FLOATIESǃ",
+                "Description": "Welcome to the Sunrise District of Afterdark Cityǃ Enjoy the surf and the sand in this lovely locale on the coastǃǃ FEATURES PARKOUR RAILGRINDING - SHOPS AND INVENTORY - CONTROLLABLE FLOATIESǃ Part of Afterdark City˸ Chapter 1",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -12346,8 +12426,8 @@
         "Worlds": [
             {
                 "ID": "wrld_91dcfc94-b4c8-4605-86d1-fc3ea3eaa51b",
-                "Name": "ぶどうグミミュージアム_budougumi",
-                "RecommendedCapacity": 64,
+                "Name": "ぶどうグミみゅじあむ_budougumi",
+                "RecommendedCapacity": 32,
                 "Capacity": 64,
                 "Description": "作者の漫画展示しています。食品のぶどうグミとは一切関係ございません。",
                 "Platform": {
@@ -12361,7 +12441,7 @@
                 "Name": "MARSIUM_HALL",
                 "RecommendedCapacity": 30,
                 "Capacity": 60,
-                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2024⁄08⁄04 更新",
+                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2024⁄12⁄23 更新",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -12431,9 +12511,9 @@
             {
                 "ID": "wrld_7d475a04-ffc9-4283-b0d7-0a6825bfa0ce",
                 "Name": "The PosterMuseum",
-                "RecommendedCapacity": 30,
-                "Capacity": 60,
-                "Description": "ver4․2․5。VRCのポスターを集めて展示したワールドです。 空ノ島美術館のリメイクで構造デザインから一新し再構成しました。 BGM：Horizon Blue （Ryo Lion）",
+                "RecommendedCapacity": 15,
+                "Capacity": 30,
+                "Description": "ver4․2․6。VRCのポスターを集めて展示したワールドです。 空ノ島美術館のリメイクで構造デザインから一新し再構成しました。 BGM：Horizon Blue （Ryo Lion）",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -12570,7 +12650,7 @@
                 "Name": "まめひなたの幸せ広場～まめひなた Happy Square～",
                 "RecommendedCapacity": 30,
                 "Capacity": 40,
-                "Description": "2023⁄12⁄23 「まめひなたちゃんのお誕生日会」で使用していたワールドです。 集会などにも活用をしてみてください。 Quest対応。 QVペン、動画プレーヤー、ミラー",
+                "Description": "2024年冬仕様になりました",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13015,7 +13095,7 @@
             {
                 "ID": "wrld_f582ce7f-5486-47ca-9fca-a77d8ad53cd1",
                 "Name": "白羽旅館 Shiroha's Ryokan",
-                "RecommendedCapacity": 32,
+                "RecommendedCapacity": 30,
                 "Capacity": 40,
                 "Description": "白羽旅館 Shiroha's Ryokan",
                 "Platform": {
@@ -13068,9 +13148,9 @@
             {
                 "ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
                 "Name": "A Simple Fishing World",
-                "RecommendedCapacity": 18,
+                "RecommendedCapacity": 30,
                 "Capacity": 80,
-                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v10 - Auto-Saving‚ ＂Global＂ leaderboard （WIP）‚ Super Rare fishes and advent boxesǃ",
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v15 - All 24 Advent boxes now availableǃ Finish the event to unlock skinsǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13103,9 +13183,9 @@
             },
             {
                 "ID": "wrld_057b9b0f-a9c1-4f3c-b002-058a658e2217",
-                "Name": "中文吧 Chinese Bar 7․1․2［CN＼HK＼TW］",
+                "Name": "中文吧 Chinese Bar 7․1․6［CN＼HK＼TW］",
                 "RecommendedCapacity": 20,
-                "Capacity": 40,
+                "Capacity": 80,
                 "Description": "国人聚集地 By˸ 信标工作室",
                 "Platform": {
                     "PC": true,
@@ -13293,10 +13373,10 @@
         "Worlds": [
             {
                 "ID": "wrld_80f20279-3ede-479f-9653-0bf976c1f51a",
-                "Name": "The Midnight District - Afterdark City",
+                "Name": "The Midnight District",
                 "RecommendedCapacity": 40,
                 "Capacity": 80,
-                "Description": "Welcome to the Midnight District of Afterdark Cityǃ A Spooky Forest Park with Lazer Lightshows and Dance Floorǃ filled with activities and games of all kindsǃ",
+                "Description": "Welcome to the Midnight District of Afterdark Cityǃ A Spooky Forest Park with Lazer Lightshows and Dance Floorǃ filled with activities and games of all kindsǃ Part of Afterdark City˸ Chapter 1",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -13445,7 +13525,7 @@
                 "Name": "Fujian Tulou （福建土楼）",
                 "RecommendedCapacity": 40,
                 "Capacity": 50,
-                "Description": "Fujian Tulou ⁄ 福建土楼、Chinese rural dwellings unique to the Hakka in the mountainous areas in southeastern Fujian‚ China․ Here is Wenchang Pavilion․ Ver․ 1․2․0‚ now support Android ＆ iOS․",
+                "Description": "Fujian Tulou ⁄ 福建土楼、Chinese rural dwellings unique to the Hakka in the mountainous areas in southeastern Fujian‚ China․ Here is Wenchang Pavilion․ Ver․ 1․2․5‚ now support Android ＆ iOS․",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13504,7 +13584,7 @@
                 "ID": "wrld_f2a22dfc-ac50-4608-89d7-c8e3e9e619c3",
                 "Name": "BostonTeaParty",
                 "RecommendedCapacity": 43,
-                "Capacity": 43,
+                "Capacity": 50,
                 "Description": "Sons of Libertyǃ Throw all tea boxes on the boat into the sea․Boston Harbor a tea-pot tonightǃ ボストン茶会事件を体験できるワールドです。船に積まれた茶箱をすべて海に投げ捨てましょう。ボストン港をティーポットに！ BGM yankee doodle（violin ver） ˸ by Carrie Rehkopf ․ British grenadiers ˸ by ilodolly ․ yankee doodle ˸ by U․S․ Army ․ Hail‚ Columbia˸by US Navy Band's",
                 "Platform": {
                     "PC": true,
@@ -13752,7 +13832,7 @@
             },
             {
                 "ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
-                "Name": "Japan Street 0․430",
+                "Name": "Japan Street 0․433",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
@@ -13986,7 +14066,7 @@
                     "PC": true,
                     "Android": false
                 },
-                "ReleaseStatus": "public"
+                "ReleaseStatus": "private"
             },
             {
                 "ID": "wrld_24d9805f-c1da-491b-bd0a-60593a51cd70",
@@ -13998,7 +14078,7 @@
                     "PC": true,
                     "Android": false
                 },
-                "ReleaseStatus": "public"
+                "ReleaseStatus": "private"
             },
             {
                 "ID": "wrld_9677f070-c72f-4e96-9b92-c33c7305295f",
@@ -14010,7 +14090,7 @@
                     "PC": true,
                     "Android": false
                 },
-                "ReleaseStatus": "public"
+                "ReleaseStatus": "private"
             }
         ]
     },
