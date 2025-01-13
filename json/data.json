@@ -14218,5 +14218,416 @@
                 }
             }
         ]
+    },
+    {
+        "Category": "第139回 クリスマス",
+        "Worlds": [
+            {
+                "ID": "wrld_fb8af08e-6154-41ca-9526-731ff74a6b37",
+                "Name": "Velvet Christmas Hall",
+                "RecommendedCapacity": 50,
+                "Capacity": 50,
+                "Description": "ＢＧＭ 輝く街とジングルベル 【BGM_優日のすたるじっく https˸⁄⁄youtu․be⁄fgDYoShe-oo 】",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_21555c82-c681-4045-bc90-8a966e02c7db",
+                "Name": "イヴの贈り物～The 13th Secret Christmas Gift～",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "clusterのワールドを持ってきたよcluster版とはちょっと違うよ！ 12月21、22、24日にclusterというプラットフォームで、vrchat民とcluster民を呼んでビッグなクリスマスイベントを開催します！お友達を誘って遊びに来てねこのワールドの特別版3Dライブです（vrchatでは開催しません）詳細は X ＠ohayou_mayonaka をチェックしてね！",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_b1ec0673-8d12-41c9-a9ba-e0bc71953bcf",
+                "Name": "The Big Parade",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "The parade has begunǃ Welcome to The 131st Annual Centennial Macy's Saint Thanksgiving Day Tournament of Jingles Rose Elf Parade‚ sponsored by McDonalds․ Don't forget to smile and waveǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_75ba37fa-bbba-440b-8edf-35c36bbc3e31",
+                "Name": "何がクリスマスじゃあい ǃ",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "何がクリスマスじゃあい",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_10d35bcc-56fb-483d-a5e0-7b45f7f81bca",
+                "Name": "Xmas CampFire",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "そうだ、焼こう",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_a9132737-fd00-40aa-ab46-5afe3dac2b65",
+                "Name": "FUTURE 20th SQUARE（フューチャー 20th スクエア）",
+                "RecommendedCapacity": 25,
+                "Capacity": 50,
+                "Description": "フューチャーショップが20周年を記念してつくる、「未来のリテールを体感できるバーチャルスクエア」です。 素敵なクリスマスツリーと、教会のプロジェクションマッピングに彩られたクリスマスマーケットで、クラフトビールづくりや、抹茶アイストッピング、みかんジュースをみかんをもぐところから体験したり、ようかんトースト（！？）も焼けます。極めつけはベーコンやハンバーグとビールで乾杯！",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_a54402e3-7b1a-48e3-a935-946462afe3e0",
+                "Name": "Christmas at Grandmas",
+                "RecommendedCapacity": 16,
+                "Capacity": 80,
+                "Description": "classic cozy christmas‚ the kind that reminds you of home",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_0ac6a466-3292-43cb-88c1-f39259619df7",
+                "Name": "Restaurant Francesca - Xmas",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "Restaurant Francesca - Xmas",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_dc6267cd-eb29-4b47-9fd6-16c4814f8e3b",
+                "Name": "Xmas LightCity",
+                "RecommendedCapacity": 30,
+                "Capacity": 40,
+                "Description": "Illuminated cityscape For photo shoots and gatherings․ イルミネーションのある街並み 撮影や集会にどうぞ。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_fb336773-08fd-4766-a591-4c5c1542d28a",
+                "Name": "The Inner City Escape",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "An optimized apartment where you can hang out by the pool‚ watch TV or just sleepǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            }
+        ]
+    },
+    {
+        "Category": "第140回 今年流行ったワールド2024",
+        "Worlds": [
+            {
+                "ID": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
+                "Name": "VRC-JP 初心者プラザ ［JP］",
+                "RecommendedCapacity": 30,
+                "Capacity": 60,
+                "Description": "VRC-JP 初心者プラザ（通称：ジェイプラ）はVRChat公認Discordコミュニティ「VRC-JP」運営チームによるVRChatを始めたばかりのVisitor、NewUserなど初心者向けの遊び方を紹介するワールドです。 初心者向けのVRChatの操作説明を配置している〈チュートリアルエリア〉 個人・法人問わず、事前の利用許可等なく使用できる〈イベントホール〉。広場で交流できますし、ワールドポータルやアバターペデスタルを置いたエリアもあります。初心者はもちろんベテランでも新たな発見があるかと思います！どうぞご活用ください。 問い合わせはVRC-JP ディスコードサーバーへ（検索でVRC-JPかVRCグループ：VRCJP․3765 より飛べます）",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+                "Name": "A Simple Fishing World",
+                "RecommendedCapacity": 30,
+                "Capacity": 80,
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v15 - All 24 Advent boxes now availableǃ Finish the event to unlock skinsǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_654fdff8-4478-4ed4-a1bc-56e45b72e62b",
+                "Name": "VRC Volleyball practice",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "VR Only バレー部が練習している体育館。バレーコートと触って打てるボールがあります。スパイク打ったりレシーブしたり、練習すれば試合もできるかも？遊ぶときは周りに気を付けましょう。 The gym where the volleyball club practices․ There is a volleyball court and balls you can touch and hit․ You can spike‚ receive‚ and with practice‚ maybe even play a match? Be mindful of your surroundings when playing․ 배구부가 연습하는 체육관입니다․ 배구 코트와 만지고 칠 수 있는 공이 있습니다․ 스파이크나 리시브를 연습하면 시합도 할 수 있을지도 모릅니다․ 놀 때는 주변을 조심하세요․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_b49c6ee2-c2e3-4dc6-bf09-3aaea66208b1",
+                "Name": "ンョ゛ハー ゛（ショッパーズ長浜店）",
+                "RecommendedCapacity": 32,
+                "Capacity": 64,
+                "Description": "あの『ンョ゛ハー ゛』がVRChatにやってきた！ ネットで広く知られる看板「ンョ゛ハー ゛」とその周辺をフォトグラメトリ！ あの聖地をVRCで拝んじゃおう！ made with photogrammetry",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
+                "Name": "触れる仮想現実展˸リアセンス",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "沢山のご来場ありがとうございます。 これからも展示物の追加やギミックの追加・調整を行う予定です。 何か不具合や疑問点を見つけた際はなんなりとお教えください。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
+                "Name": "夏宙の休息地 -Summer Starrysky Rest-",
+                "RecommendedCapacity": 30,
+                "Capacity": 60,
+                "Description": "たまやーǃ かぎやーǃ ねこやーǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
+                "Name": "Sushi Aquarium 海洋棟",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数39種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
+                "Name": "よるとうげ -Yorutouge-",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "-星くんが誘うKikuo音楽体験世界- （Hoshikun invites you into the world of Kikuo music experiences） -この夜をこえよう。 高揚し、入り込み、溶かし、振り返り、ぐちゃぐちゃになりながら、 何度でもこの夜をこえよう。-Beyond the night․ Uplifting‚ immersing‚ melting‚ looking back‚ messing up․ Beyond the night again and again․ ＃よるとうげ ＃yorutouge",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_ebc40dab-e142-41bc-bd64-1c82834b92b0",
+                "Name": "Ephemeris",
+                "RecommendedCapacity": 80,
+                "Capacity": 80,
+                "Description": "An ephemeris is a table of calculated positions and velocities of an orbiting body at specific times․ The word comes from the Greek word ephēmeris‚ which means ＂diary＂ or ＂journal＂․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e",
+                "Name": "ぷらね邸 - PLANETEI",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "快適なリビングルームで、美しい星空とプラネタリウム投影機の機械美を心行くまでお楽しみください。 Relax in a cozy living room‚ where you can enjoy the beauty of the starry sky along with the intricate design of a planetarium projector․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
+    },
+    {
+        "Category": "第141回 1",
+        "Worlds": [
+            {
+                "ID": "wrld_5d79bc09-414f-4daf-82c5-b43f538c418b",
+                "Name": "雑煮バトル公式会場",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "各自、自分のホームお雑煮を持ち寄って紹介し合う会の会場です。 身内LINE、マストドン、Discordサーバーと場所を何度か変えつつ、今回（2025年）で第8回目の開催となります。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_4f48e795-4e5b-42af-acc7-7d0ad37efe5e",
+                "Name": "THE V1RTUAL TAKE ~First Breath~",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Respected for THE F1RST TAKE․ ONE TAKE ONLY‚ ONE LIFE ONLY․ There are only Mic and Piano․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_606305cd-6158-4819-98b1-1a85b167d693",
+                "Name": "Door",
+                "RecommendedCapacity": 24,
+                "Capacity": 48,
+                "Description": "Listen to its energy․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_4c765075-413b-463f-ae61-96f0b64fdeaf",
+                "Name": "幻会興業2025年新春特別企画ワールド",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "幻会興業2025年新春特別企画『対決！ぬるぬるローションカーリング』で使用したワールドです。 Presented by 幻会興業",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_0da3c73a-a09d-4c4e-b645-78602d03112b",
+                "Name": "OneRoomMaker紹介ワールド",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "One Room Makerの紹介ワールドです。11⁄12建物アセットの配布開始！詳しくはDiscordにて！",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_dcc4a686-b7bf-437d-90a0-bb69bec0b405",
+                "Name": "The Tokyo Skytree",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "A 634 meter tall tower located in Sumida Japan․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
+                "Name": "Exhibition˸ 1٪ of Virtuality",
+                "RecommendedCapacity": 30,
+                "Capacity": 60,
+                "Description": "1％ of Virtuality （＂1％の仮想＂） is a virtual private exhibition world with the theme of Virtual Reality․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_d1843fef-af9b-4d25-a4ed-0cb2b0167265",
+                "Name": "世界でいちばんダサいワールド",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "世界一ダサいPV「I Wanna Love You Tender」のセットを再現したワールドです。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_16afc99e-d9f0-4aa9-960f-d9c87d17207f",
+                "Name": "ザ・ベストヒット",
+                "RecommendedCapacity": 20,
+                "Capacity": 36,
+                "Description": "昔懐かし歌番組的なワールドです。TopazChat導入しました。カメラ追跡機能を追加しました。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+                "Name": "日本語話者向け集会場「FUJIYAMA」JP",
+                "RecommendedCapacity": 30,
+                "Capacity": 40,
+                "Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X（旧Twitter）：＠JP_Fujiyama",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_073eae65-fff8-4039-96bd-b4f3158826b8",
+                "Name": "［VRMV］One by One",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Music˸One by One （feat․ KMNZ LIZ） Composition and lyrics˸KOTONOHOUSE ＆ Neko Hacker Direction˸あっぷるてぃー⁄Appletea VRChat4年目を記念して制作した楽曲「One by one」のParticle Liveです。 花をインタラクトしたら始まります。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_bfb3e4ad-0952-48f6-82c8-23b66c340f4a",
+                "Name": "VRChat Home - 10 Years",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "10 Year Anniversary Edition of the VRChat Home",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_93fe7027-57f4-48b6-b830-857bfed75647",
+                "Name": "＃ 1",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "＃ 1",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
     }
 ]
