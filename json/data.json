@@ -579,7 +579,7 @@
                 "Name": "Absence",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
-                "Description": "World made by me and Apathy․ Any feedback can be reported to my discord˸ dawidcsx",
+                "Description": "World made by me and Apathy․ Any feedback can be reported to my discord˸ dawidcsx Update 13⁄01⁄25 - patreon supporter panel and performance improvements․",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -842,7 +842,8 @@
                 "Platform": {
                     "PC": true,
                     "Android": false
-                }
+                },
+                "ReleaseStatus": "public"
             },
             {
                 "ID": "wrld_ef624919-f622-4cbc-a4d0-ec00f7031de6",
@@ -1429,7 +1430,7 @@
                 "Name": "Absence",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
-                "Description": "World made by me and Apathy․ Any feedback can be reported to my discord˸ dawidcsx",
+                "Description": "World made by me and Apathy․ Any feedback can be reported to my discord˸ dawidcsx Update 13⁄01⁄25 - patreon supporter panel and performance improvements․",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -2469,7 +2470,7 @@
                 "Name": "The Black Cat",
                 "RecommendedCapacity": 24,
                 "Capacity": 80,
-                "Description": "The Black Cat is a simple mirror world․ Come hangout‚ meet new friends‚ eat pancakes‚ and stare at yourself․ Everyone is welcomed at The Black Catǃ Sponsored Content˸ https˸⁄⁄bit․ly⁄PICOBF24",
+                "Description": "The Black Cat is a simple mirror world․ Come hangout‚ meet new friends‚ eat pancakes‚ and stare at yourself․ Everyone is welcomed at The Black Catǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -5147,7 +5148,7 @@
                 "Name": "Absence",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
-                "Description": "World made by me and Apathy․ Any feedback can be reported to my discord˸ dawidcsx",
+                "Description": "World made by me and Apathy․ Any feedback can be reported to my discord˸ dawidcsx Update 13⁄01⁄25 - patreon supporter panel and performance improvements․",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -7459,7 +7460,7 @@
                 "Name": "VRChatここから始めました -Kokokara JP-",
                 "RecommendedCapacity": 32,
                 "Capacity": 32,
-                "Description": "VisitorはTrustedに、TrustedはVisitorに、なってゆきます。 技術担当：mameneko・kimkim",
+                "Description": "VisitorはTrustedに、TrustedはVisitorに、なってゆきます。 技術担当：mameneko・kimkim0106",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -8392,8 +8393,8 @@
             {
                 "ID": "wrld_344f199f-8362-4788-9150-9b19bd7c8c57",
                 "Name": "VRCすえひろ亭 -Suehiro-",
-                "RecommendedCapacity": 30,
-                "Capacity": 60,
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
                 "Description": "こちらは東京・新宿に実在する寄席を再現したワールドです。",
                 "Platform": {
                     "PC": true,
@@ -9555,7 +9556,7 @@
                 "Name": "VRChat Cafe",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "10 Year Celebration World․ Day Zero uploaded content․",
+                "Description": "11 Year Celebration World․ Day Zero uploaded content․",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -11111,10 +11112,10 @@
             },
             {
                 "ID": "wrld_ed1acb6a-fc2e-4d07-8ce7-86c36420fe47",
-                "Name": "Anique Museum - serial experiments lain Weird展",
+                "Name": "Anique Museum - Weird展 ダンジョンの中のひと展",
                 "RecommendedCapacity": 16,
                 "Capacity": 80,
-                "Description": "serial experiments lain Weird Exhibition˸ 2025年1月19日 まで開催中！",
+                "Description": "serial experiments lain 「Weird 展」 2025年1月19日 まで開催中！ ダンジョンの中のひと「ダンジョンのお仕事展」2025年3月30日まで開催中！",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -11664,7 +11665,7 @@
             },
             {
                 "ID": "wrld_7a2af0a7-3e43-4108-8d95-03b2b7106c67",
-                "Name": "Agueda - Umbrella Sky Project",
+                "Name": "Agueda - Umbrella Sky Project v1․5",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
                 "Description": "This is a recreation of the umbrella festival that takes place during the summer in Agueda‚ a small town in central Portugal․ （Not official）․ ポルトガル中部の小さな街、アゲダで夏の間行われる傘祭りを再現しました。 （公式なものではありません） Uma recriacao da festa do guarda-chuva que se realiza durante os meses de verao na pequena cidade de Agueda‚ no centro de Portugal․ （Nao oficial）․",
@@ -13114,7 +13115,7 @@
                 "Name": "The Black Cat",
                 "RecommendedCapacity": 24,
                 "Capacity": 80,
-                "Description": "The Black Cat is a simple mirror world․ Come hangout‚ meet new friends‚ eat pancakes‚ and stare at yourself․ Everyone is welcomed at The Black Catǃ Sponsored Content˸ https˸⁄⁄bit․ly⁄PICOBF24",
+                "Description": "The Black Cat is a simple mirror world․ Come hangout‚ meet new friends‚ eat pancakes‚ and stare at yourself․ Everyone is welcomed at The Black Catǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13126,7 +13127,7 @@
                 "Name": "McDonald's",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "Build memories this holiday season with LEGO toys inside every Happy Mealǃ",
+                "Description": "Feel the power of love with Back to the Future Happy Meals․ Happy Valentine's Dayǃǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13148,9 +13149,9 @@
             {
                 "ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
                 "Name": "A Simple Fishing World",
-                "RecommendedCapacity": 30,
+                "RecommendedCapacity": 28,
                 "Capacity": 80,
-                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v15 - All 24 Advent boxes now availableǃ Finish the event to unlock skinsǃ",
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v18 - Proper rarity system addedǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13832,7 +13833,7 @@
             },
             {
                 "ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
-                "Name": "Japan Street 0․433",
+                "Name": "Japan Street 0․434",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
@@ -14362,9 +14363,9 @@
             {
                 "ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
                 "Name": "A Simple Fishing World",
-                "RecommendedCapacity": 30,
+                "RecommendedCapacity": 28,
                 "Capacity": 80,
-                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v15 - All 24 Advent boxes now availableǃ Finish the event to unlock skinsǃ",
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v18 - Proper rarity system addedǃ",
                 "ReleaseStatus": "public",
                 "Platform": {
                     "PC": true,
