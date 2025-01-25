@@ -2308,18 +2308,6 @@
                 "ReleaseStatus": "public"
             },
             {
-                "ID": "wrld_3f0561c0-ae51-445a-ab55-445df1e9e498",
-                "Name": "Aftermath",
-                "RecommendedCapacity": 16,
-                "Capacity": 32,
-                "Description": "a world of destroyed․you can find old world's echo and the cause for destroying the world 一个被摧毁的世界，你可以找到旧世界的回声与世界毁灭的原因",
-                "Platform": {
-                    "PC": true,
-                    "Android": true
-                },
-                "ReleaseStatus": "public"
-            },
-            {
                 "ID": "wrld_399a7a65-4d95-4937-b095-1fff98aa5c5e",
                 "Name": "Aftermath",
                 "RecommendedCapacity": 16,
