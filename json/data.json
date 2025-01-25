@@ -14630,5 +14630,130 @@
                 }
             }
         ]
+    },
+    {
+        "Category": "第142回 海",
+        "Worlds": [
+            {
+                "ID": "wrld_d2f38f72-52a2-4513-bd21-4f0889d8aa8f",
+                "Name": "Lonesome Aurora",
+                "RecommendedCapacity": 16,
+                "Capacity": 80,
+                "Description": "Lonesome Aurora is a warm n comfy styled cabin drifting on a glowing? chunk of rockǃ Get comfy in the spa‚ or lay back n look at the stars in roof hammockǃ and after partyin outside come in‚ 'n cuddle up in bed or by the fireǃ Get your own copy off my gumroadǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_2ca4d837-e4b1-497b-a8db-8459acce1d44",
+                "Name": "あおいろ公園 -daylight-",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "海上にある公園。昼バージョン（夜バージョンもあります。）（A park on the sea․ Daylight version․（There is also a daylight version․）） BGM˸ Garden_Farm",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68",
+                "Name": "おいてけぼりの夏-Summer left behind-",
+                "RecommendedCapacity": 32,
+                "Capacity": 40,
+                "Description": "夏色が抜かれてしまった後の世界。船を操縦することもできます。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_f2f83f8b-c4f0-4c7b-9540-b15dafb92d2b",
+                "Name": "Dignity Island ｜ 2023 Warm Sunrise",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Take comfort in the cold and relax",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_9b42e5ef-8f5d-4ed0-bdaf-ef9cedfb0a5f",
+                "Name": "蟹宮殿",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "蟹宮殿",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_a74f6c79-e204-4ca3-b0df-cd57f9c5bf0b",
+                "Name": "Stormy Oil Rig",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "generic oil rig in a nice rain storm setting",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_082d18f3-29f1-4d3d-b00f-aab32c8aad2e",
+                "Name": "ミボシ第9コンテナ港⁄Miboshi Ninth ContainerPort",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "コンテナ港をイメージして作ったワールド。第9に特に意味はないです。A world created in the image of a container port․ Number 9 has no special meaning․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_c13d5b71-b6f5-485a-a5af-9a28b9a89bff",
+                "Name": "holoAquarium （Prod․ by Amelia Watson）",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Inspired by Amelia's love for marine life and ocean conservation‚ explore the wonders of the ocean in a relaxing aquarium‚ populated by strange‚ fascinating and familiar marine life featuring all members of hololive and holostars‚ an unforgettable experience awaits youǃ Thank you for all the love and support over the yearsǃ Credits˸ Producer˸ Amelia Watson holoAquarium World Map˸ Seafoam Creature Modelers˸ Twi‚ stupah‚ joules‚ pyroxene‚ Gon‚ Slvan‚ ROOJINALD‚ Rei21‚ Priichu‚ Hask Scripting˸ nullrefrepro Translations˸ Gomadare‚ Yuri‚ arc_‚ tototo Project Manager˸ Henma",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_5a23568d-f2a0-4903-bc81-016efc49450a",
+                "Name": "［WIP］ UMHL PORT",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "3 post effects（day‚ evening‚ night）⁄ very very wip ⁄ will update later‚ maybe",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_9b02567a-e68f-4921-a8a8-068c1a9b7b9a",
+                "Name": "Pacific Dreams （Night）",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "A tropical island themed hangout with the usual stuff˸ Videoplayer‚ Billiards‚ Mirrors and more․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
     }
 ]
