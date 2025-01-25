@@ -2699,7 +2699,7 @@
             },
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
-                "Name": "Sweets Dishǃ - New Yearǃ",
+                "Name": "Sweets Dishǃ",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
@@ -3322,7 +3322,7 @@
             },
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
-                "Name": "Sweets Dishǃ - New Yearǃ",
+                "Name": "Sweets Dishǃ",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
@@ -7922,8 +7922,8 @@
             {
                 "ID": "wrld_5b954582-89a3-4cad-a038-a39ee5447b50",
                 "Name": "CONSTELLATION",
-                "RecommendedCapacity": 20,
-                "Capacity": 40,
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
                 "Description": "総合施設系ワールド 普段使いからイベントまで V睡も！ スタッフ専用モードあり TopazChat Sliden YamaPlayer LTCGI ImagePad x 25 QvPen VoiceOcclusion JoinNotification＆Log",
                 "Platform": {
                     "PC": true,
@@ -8573,7 +8573,7 @@
                 "Name": "寝台特急北極星-Test Run-",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "架空の寝台列車、北極星号に搭載する予定の車窓のテストワールドです。iwasyncでお好みの走行音を流してお楽しみください。",
+                "Description": "架空の寝台列車、北極星号のテストワールドです。iwasyncでお好みの走行音を流してお楽しみください。",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -10293,7 +10293,7 @@
                 "Name": "Study Japanese World【 ジャパ日常 JapaNichijou 】by HiTs ＃JapaNichijou",
                 "RecommendedCapacity": 80,
                 "Capacity": 80,
-                "Description": "（Updated 11⁄16） EventTime Sat 9AM （ JST ） Fri 7PM （ EST ） 12AM （ GMT ） ＆ Sun 11PM （ JST ） 2PM （ GMT ） 9AM （ EST ）․ ＋1 hour to areas with daylight savings （during summer） ǃ We gather together every weekend to have Japanese lessons and play games in Japanese etc․․․ǃ Feel free to join usǃ このワールドを使用して有料日本語学習コンテンツを作成しないでください～！",
+                "Description": "（Updated 2025 1⁄19） EventTime Sat 9AM （ JST ） Fri 7PM （ EST ） 12AM （ GMT ） ＆ Sun 11PM （ JST ） 2PM （ GMT ） 9AM （ EST ）․ ＋1 hour to areas with daylight savings （during summer） ǃ We gather together every weekend to have Japanese lessons and play games in Japanese etc․․․ǃ Feel free to join usǃ このワールドを使用して有料日本語学習コンテンツを作成しないでください～！",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -11112,10 +11112,10 @@
             },
             {
                 "ID": "wrld_ed1acb6a-fc2e-4d07-8ce7-86c36420fe47",
-                "Name": "Anique Museum - Weird展 ダンジョンの中のひと展",
+                "Name": "Anique Museum - ダンジョンの中のひと展",
                 "RecommendedCapacity": 16,
                 "Capacity": 80,
-                "Description": "serial experiments lain 「Weird 展」 2025年1月19日 まで開催中！ ダンジョンの中のひと「ダンジョンのお仕事展」2025年3月30日まで開催中！",
+                "Description": "ダンジョンの中のひと「ダンジョンのお仕事展」2025年3月30日まで開催中！",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13151,7 +13151,7 @@
                 "Name": "A Simple Fishing World",
                 "RecommendedCapacity": 28,
                 "Capacity": 80,
-                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v18 - Proper rarity system addedǃ",
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v19 - 5 fish rarities to collect in your fish dex nowǃ （plus a bunch of fixes qol improvements）",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13833,7 +13833,7 @@
             },
             {
                 "ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
-                "Name": "Japan Street 0․434",
+                "Name": "Japan Street 0․435",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
@@ -14365,7 +14365,7 @@
                 "Name": "A Simple Fishing World",
                 "RecommendedCapacity": 28,
                 "Capacity": 80,
-                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v18 - Proper rarity system addedǃ",
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v19 - 5 fish rarities to collect in your fish dex nowǃ （plus a bunch of fixes qol improvements）",
                 "ReleaseStatus": "public",
                 "Platform": {
                     "PC": true,
