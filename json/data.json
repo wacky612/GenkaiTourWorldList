@@ -14743,5 +14743,142 @@
                 }
             }
         ]
+    },
+    {
+        "Category": "第143回 幻",
+        "Worlds": [
+            {
+                "ID": "wrld_db22ce6e-0b8f-447a-9ace-f81e8e30fa32",
+                "Name": "久遠-タソガレクイキ- Isolated Area -Twilight-",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "「․․․․․․思い出した世界に、キミはもういない。」",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_cd6157d0-93bb-49d7-bca0-a5191718e165",
+                "Name": "․⁄ hallucination",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "No sound is produced․写真撮影などにご利用ください",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_a649f318-9aab-471a-9543-ac1064d220f1",
+                "Name": "Just 蜃気楼の原理 -Just Shinkirou no Genri-",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "蜃気楼を体験しよう！",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_9d44c11a-1c09-4cfe-bae3-4532a47dec00",
+                "Name": "REALITY IS WRONG",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "World based on a dream․ （Remake）",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_a3cf1251-0761-49bc-ab66-f4abe3433381",
+                "Name": "蛇ノ思考Art gallery 久住葉柄没後100年 企画展",
+                "RecommendedCapacity": 25,
+                "Capacity": 50,
+                "Description": "Art gallery English Language Support․Ver․1․2",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_c00d3ef8-cdb6-40ad-88e2-cce67d0ef14f",
+                "Name": "Steps of the Campanula - カンパニュラの足音",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "Where will the traveler go？ その旅人はどこへ向かうのでしょうか。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_4c707e54-5067-4ce8-940c-a1ee78625a8f",
+                "Name": "Virtual Airline 虛擬航線 仮想ルート",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "Virtual Airline 虚拟航线 仮想ルート https˸⁄⁄discord․gg⁄648J5Xnd- THE PAST AND FUTURE OF THE DIGITAL WORLD SAGA 电脑世界的过去和未来 コンピュータの世界の過去と未来 Real-time online digital environments - now available on VRChat 实时在线数字环境--- 已在 VRChat 正式开放访问 リアルタイムのオンラインデジタル環境 - VRChatで提供開始 ----------- Virtual Airline is a project to tell you about the past and future of the digital world․ By telling the story of the digital content environment‚ we hope to connect everyone's real life to the digital environment․ 虚拟航线 Virtual Airline 是一个向你讲述数字世界的过去和未来的计划， 我们希望通过讲述数字内容环境的故事，将每个人的现实生活与数字环境联系起来。 Virtual Airlineは、デジタル世界の過去と未来をお伝えするプロジェクトです。 デジタルコンテンツ環境のストーリーを伝えることで、皆さんの実生活とデジタル環境をつなげていきたいと考えています。 ----------- 线框世界 FRAME WORLD 信息世界 MEME WORLD 航站楼 TREMINAL 社会 SOCIETY",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_5f48b041-2c33-4940-8d07-58b08c7d9273",
+                "Name": "Virtual",
+                "RecommendedCapacity": 32,
+                "Capacity": 32,
+                "Description": "Virtual",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_ec8a1907-eb2b-4087-8229-c4dfbd6aa3c0",
+                "Name": "眠る月想う花",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "貴方の月は綺麗ですか",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_606f21c8-2761-466a-9a93-8d539714e95a",
+                "Name": "蜃気楼の塔",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "to mirror videosound Mirage Tower Please take your time․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_ec06b4f6-c96e-41d4-81a2-1871e4f40224",
+                "Name": "旧幻月",
+                "RecommendedCapacity": 24,
+                "Capacity": 24,
+                "Description": "水の無い砂漠に水面揺蕩う屋外BARです。 またサムネイル通りBAR幻月のイベント会場だったものです。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
     }
 ]
