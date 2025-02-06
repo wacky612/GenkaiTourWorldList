@@ -567,7 +567,7 @@
                 "Name": "nagisa no machi",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
-                "Description": "静かな海辺の町です。コライダーその他修正しました、多少負荷軽減。",
+                "Description": "静かな海辺の町です。",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -1492,10 +1492,10 @@
             },
             {
                 "ID": "wrld_47a85290-b8d7-4e03-a92e-21b9877fa51c",
-                "Name": "bob",
+                "Name": "I didn't wanna get in trouble so I made this world private I'm so sorry",
                 "RecommendedCapacity": 18,
                 "Capacity": 36,
-                "Description": "i love boobys․",
+                "Description": "I didn't wanna get in trouble so I made this world private I'm so sorry",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -2027,8 +2027,8 @@
             {
                 "ID": "wrld_c215101b-8f13-408c-8bc6-1687cf87762f",
                 "Name": "Hwabon Night （화본역）",
-                "RecommendedCapacity": 35,
-                "Capacity": 40,
+                "RecommendedCapacity": 30,
+                "Capacity": 30,
                 "Description": "It's a small train station in Korea",
                 "Platform": {
                     "PC": true,
@@ -2687,7 +2687,7 @@
             },
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
-                "Name": "Sweets Dishǃ",
+                "Name": "Sweets Dishǃ - Valentine",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
@@ -3310,7 +3310,7 @@
             },
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
-                "Name": "Sweets Dishǃ",
+                "Name": "Sweets Dishǃ - Valentine",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
@@ -4353,8 +4353,8 @@
                 "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
                 "Name": "VR Narita Airport《NRT⁄RJAA》",
                 "RecommendedCapacity": 20,
-                "Capacity": 35,
-                "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
+                "Capacity": 37,
+                "Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -4645,7 +4645,7 @@
                 "Name": "Storm Drain",
                 "RecommendedCapacity": 40,
                 "Capacity": 80,
-                "Description": "A world that is based of of Japanese storm drain system in Tokyo․ Also inspired by mirrors edge and portal 2․ Still work in progress Textures by Quixel Shaders by Silent",
+                "Description": "A world that is based of of Japanese storm drain system in Tokyo․ Inspired by Mirror's Edge and Portal 2․ Textures by Quixel Shaders by Silent",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -9157,7 +9157,7 @@
                 "Name": "Storm Drain",
                 "RecommendedCapacity": 40,
                 "Capacity": 80,
-                "Description": "A world that is based of of Japanese storm drain system in Tokyo․ Also inspired by mirrors edge and portal 2․ Still work in progress Textures by Quixel Shaders by Silent",
+                "Description": "A world that is based of of Japanese storm drain system in Tokyo․ Inspired by Mirror's Edge and Portal 2․ Textures by Quixel Shaders by Silent",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -9734,7 +9734,7 @@
                     "PC": true,
                     "Android": true
                 },
-                "ReleaseStatus": "public"
+                "ReleaseStatus": "private"
             },
             {
                 "ID": "wrld_8e846f9d-5fc7-49e1-817d-ad29830b9311",
@@ -9806,7 +9806,7 @@
                 "Name": "City of Liliya",
                 "RecommendedCapacity": 32,
                 "Capacity": 64,
-                "Description": "Una città chiamata Liliya․․․ （Ver․ 1․1․23）",
+                "Description": "Una città chiamata Liliya․․․ （Ver․ 1․1․24）",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -10319,7 +10319,7 @@
             },
             {
                 "ID": "wrld_c9370c40-45e2-4622-9a2d-9e210622d1c9",
-                "Name": "This Ship has 5 Years of Oxygen Remaining",
+                "Name": "This Ship has 4 Years of Oxygen Remaining",
                 "RecommendedCapacity": 20,
                 "Capacity": 80,
                 "Description": "After a tragedy takes place on this cargo ship‚ the last remaining astronaut only has 5 years of oxygen remaining as his ship drift aimlessly through space․ However‚ with every player that joins they take a percentage of his oxygen․ The more players‚ the more oxygen that is taken up․ With the passage of time the astronaut has to sacrifice parts of his ship to survive․ Will you take his oxygen? or spare him of this terrible fate? Either way․․․ We all Go One Day․",
@@ -13139,7 +13139,7 @@
                 "Name": "A Simple Fishing World",
                 "RecommendedCapacity": 28,
                 "Capacity": 80,
-                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v19 - 5 fish rarities to collect in your fish dex nowǃ （plus a bunch of fixes qol improvements）",
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v20 - 5 fish rarities to collect in your fish dex nowǃ Winter Visuals and new shopǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -14353,7 +14353,7 @@
                 "Name": "A Simple Fishing World",
                 "RecommendedCapacity": 28,
                 "Capacity": 80,
-                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v19 - 5 fish rarities to collect in your fish dex nowǃ （plus a bunch of fixes qol improvements）",
+                "Description": "Features rod mechanics that are physics basedǃ Various rare fish types to collectǃ A relaxing environment with lots of ambient soundsǃ Still being updatedǃ ⁄⁄ v20 - 5 fish rarities to collect in your fish dex nowǃ Winter Visuals and new shopǃ",
                 "ReleaseStatus": "public",
                 "Platform": {
                     "PC": true,
