@@ -14880,5 +14880,142 @@
                 }
             }
         ]
+    },
+    {
+        "Category": "第144回 悪",
+        "Worlds": [
+            {
+                "ID": "wrld_e5ced66f-455b-455b-848c-3488d25387fe",
+                "Name": "A New Evil",
+                "RecommendedCapacity": 25,
+                "Capacity": 45,
+                "Description": "The creation of one seeking to spread the corruption through religious purpose crafted the Obelisk through unknown means‚ Meet the eyes gaze and fall into its influence or resist‚ The Choice is yours․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_953bde91-104a-451b-b5ef-e62f34fe8346",
+                "Name": "Cyberpunk Alley",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "A futuristic alleyway with a hidden indoor‚ pc only videoplayer and ltcgi",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_93fbc503-bc5b-4bc3-a4f7-7d289dc82740",
+                "Name": "Break the Glass ǃ",
+                "RecommendedCapacity": 8,
+                "Capacity": 32,
+                "Description": "A world where you can break the glass （and some other things）․ You can get the breaking glass prefab on my booth page‚ link in the bio․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_5bcde7ae-9bd2-4b38-bf2c-ebb83f5aab3c",
+                "Name": "VR Prison",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "VR Prison",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_ec462c59-525a-4d6d-b427-a52ec4ce3fba",
+                "Name": "かいてきな地下生活",
+                "RecommendedCapacity": 25,
+                "Capacity": 50,
+                "Description": "かいてきな地下生活が送れそうなチルワールド！ワゴンの飲食で豪遊、トランプ将棋の類とチンチロ部屋も！あと備品部屋にはさらにパーティセットや大きい鉄板があるよ！ベッドは5段でたくさんの人とV睡できます！iwasyncやQvペンも完備！過酷な労働の疲れを癒すのにどうぞ！いわゆるファンワールドです。【Update＞】2024⁄12⁄31 初期所持金9100․0P、所持金不足したら勤労できるように、ローカルのベッドコライダー追加しました 2024⁄12⁄29ピックアップオブジェクトのリセット・Joinログ追加",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_eb5deadd-d5a1-428c-a36e-6cdff5394d14",
+                "Name": "ヴァリアールフェスティバル",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "悪役結社ヴァリアールのすべてがわかる、ヴァリアールフェスティバル！！悪の祭典を刮目せよ！！2021⁄10⁄8更新！",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_0d91e1f3-ae34-4b53-bda2-42ba2953c5f7",
+                "Name": "Underground Auction",
+                "RecommendedCapacity": 60,
+                "Capacity": 60,
+                "Description": "人目に触れぬ地下のワンダーランド、オークション会場へようこそ。 様々な商品を眺め、時に競りの興奮を味わいながら、特別なひと時をお過ごしいただければ幸いです。 あなたの好奇心と探求心を満たす、忘れられない出会いがあることをお祈りいたします。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_73764e0c-3b39-4cde-9ba1-cae5365885e7",
+                "Name": "Demon Realm- làn ghealach Castle",
+                "RecommendedCapacity": 30,
+                "Capacity": 60,
+                "Description": "A small Castle located in the deep far heart of the Demon realm‚ Home to a Primordial class demon․ Be careful of the guards․ What mysteries lay behind these walls‚ only those bave of heart may know․․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_f9ba4349-5e50-4dba-ad86-f26dd6beb6e8",
+                "Name": "Cult Cathedral",
+                "RecommendedCapacity": 32,
+                "Capacity": 64,
+                "Description": "Evil Tavern World for NightClub Events․ lowpoly assets by Synty Studios",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_a231971b-3c5c-4a15-b620-0ab27625266a",
+                "Name": "Dracula's Castle",
+                "RecommendedCapacity": 16,
+                "Capacity": 80,
+                "Description": "A faithful fan-recreation of Dracula's Castle from Netflix's Castlevania․ Almost entirely built from scratch and optimized for VRChatǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_3dbc72a5-d08d-46fe-9a41-122ba6faf8fe",
+                "Name": "CONCRETE JUNGLE",
+                "RecommendedCapacity": 80,
+                "Capacity": 80,
+                "Description": "Outside the SECT․ blocks‚ a patch of overgrown buildings known as the ''Concrete Jungle'' had become a rare refuge․ With fresh air and vegetation‚ it was a beacon of hope․ The survivors here had even managed to get an old train running and had planes flying out to evacuate people to safety․ The Concrete Jungle‚ once a forgotten corner‚ became a symbol of renewal and hope․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
     }
 ]
