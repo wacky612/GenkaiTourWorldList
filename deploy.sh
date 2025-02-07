@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cp json/data.json gh-pages
+python build.py
 cd gh-pages
 git add data.json
 git commit --amend --no-edit
