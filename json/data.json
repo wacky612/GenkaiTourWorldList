@@ -15017,5 +15017,428 @@
                 }
             }
         ]
+    },
+    {
+        "Category": "第145回 霧",
+        "Worlds": [
+            {
+                "ID": "wrld_d234eba0-1ace-4209-99d6-f3883fdae544",
+                "Name": "Misty Quartz",
+                "RecommendedCapacity": 33,
+                "Capacity": 66,
+                "Description": "My take on an almost liminal space․ The ripples coalesce into raindrops‚ rising into nothing as time refuses to pass․ Despite that‚ it remains peaceful here․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_c153d777-17f0-4f2b-a9a8-ab5cb1e06ba6",
+                "Name": "Elated Pines",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "azure haze․ soft-spoken friends are swaying greeting me․ elated pines․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_1844fa04-8c00-458f-bcce-450f20e72a64",
+                "Name": "Temple",
+                "RecommendedCapacity": 25,
+                "Capacity": 50,
+                "Description": "廃棄された寺院 奥にiwasyncあります",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_14bcaa06-580f-4dce-827c-d26da64ebc0d",
+                "Name": "Silent Creek",
+                "RecommendedCapacity": 25,
+                "Capacity": 50,
+                "Description": "Hangout or explore in a mysterious wood forest․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_ea66dee0-005e-43cf-b62d-a9931f30c7f7",
+                "Name": "禁足地・宮野原 -sanctuary-",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "たぶん「あちら側」の場所",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_b473f3f1-1f8a-414d-874a-9e9f121e74b8",
+                "Name": "Celadon Conservatory",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "The air is heavy with humidity‚ it smells like incense and rain․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_9f12d400-44cb-4343-8da5-747bbe534d73",
+                "Name": "The City of Mist ｜ 霧の街",
+                "RecommendedCapacity": 24,
+                "Capacity": 48,
+                "Description": "Welcome to The City of Mistǃǃ This has been one of my more aesthetically-focused projects and really it's just a pretty little alleyway to hang out in~ I hope you enjoy itǃǃ ˸）Sorry if the quest version leaves a lot more to be desiredǃǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_0bb864c7-7b15-4014-adc9-64467fbcc8ba",
+                "Name": "DEEP FOG ILLUMINATION",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "deep fog illumination",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_aaf06b6a-8157-4f86-b0b6-7980e6225e13",
+                "Name": "钢铁墓地SteelGraveyard",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "这片荒凉之地上，钢铁残骸绵延至远方。In this desolate land so grand‚ steel wreckage stretches across the sand․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_84cb544f-7d66-466f-b141-040020b02e28",
+                "Name": "OSF 14 ＂The Veiled Monolith＂",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_c534f4eb-a359-4c2f-bdb3-2e995a3ca0d4",
+                "Name": "TOKYO MIST",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_b5d2a4c8-0bc8-4ccd-ad19-aae5f6168636",
+                "Name": "Hue",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Chill world for my other half",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
+    },
+    {
+        "Category": "第146回 寒い",
+        "Worlds": [
+            {
+                "ID": "wrld_1d4466d5-5fa3-489c-a4d9-fb62e0a6935d",
+                "Name": "Antarctica - Chill House",
+                "RecommendedCapacity": 32,
+                "Capacity": 64,
+                "Description": "南極をイメージしたチルワールドです。 ⁄ Chill house on the Antarctica ⁄ YamaPlayer‚ VRCHandMenu‚ QVPen‚ NightMode‚ Playlists",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_4c145de7-9475-47d9-9a8e-842a169a6a2e",
+                "Name": "UltimateCHILL",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "寒すぎる町へようこそ。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_967aa4fa-a3b3-4e52-9863-aa3daddce78a",
+                "Name": "冬キャンしようよ",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "冬キャンしようよ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_107fc91a-ad5c-4997-aaaa-c4b70768db12",
+                "Name": "Arctic Mountain Base",
+                "RecommendedCapacity": 32,
+                "Capacity": 64,
+                "Description": "Arctic Mountain Base",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_a4f5b115-8e80-483b-ab66-07a52dd085e5",
+                "Name": "The Fridge",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "The Fridge",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_2f9523d7-8d53-467d-b5ba-ac0416fc08c0",
+                "Name": "Konoshiro Ski Rezort - 鮗高原スキー場",
+                "RecommendedCapacity": 16,
+                "Capacity": 77,
+                "Description": "安政2年から続く伝統的なﾌｨｯｼｭﾍｯﾄﾞの祭典が、今年の冬もやってきた！ 標高1846mの霊峰、鮗岳（このしろだけ）でフィッシュマーケットを楽しもう！ リフトに乗りながら友達とおしゃべりしたり、とっても安全なスキーギミックで遊んだり、疲れた時はホテルでまったりアジの開きとかを食べます。ﾌｨｯｼｭﾍｯﾄﾞ Special thanks World music by sanaga‚ Ski ＆ Lift gimmick by 甘水夢科学研究所‚ Main building by natakin（レストラン３Fに続編ワールド有〼）‚Cuisine by Kaya ーーーー＃Fket 2024Winterの会場ワールドです。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_7fb5f83f-cc9e-4a8e-8998-6d119a1e3588",
+                "Name": "白銀の旅館",
+                "RecommendedCapacity": 32,
+                "Capacity": 64,
+                "Description": "創造神の凍にたがり様がここで唄い、描いて暮らしていた。クオリティ重視のワールドな為、 大人数でいるとVRの方はカクつく場合がございます。重い方は受付にあります軽量化スイッチを押してください。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_6b7c2a1f-c292-4876-a334-918756179a91",
+                "Name": "Glacial Nights",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "Welcome to Glacial Nights - Ver 2․0 - The UDON Update This is a full overhaul of the this world for both PC and Quest‚ Now running on the 2022․3․22f1 version of Unity and adding new UDON features and visual upgrades for the Android Platform These include YouTube Search‚ Day⁄Night Toggle‚ Post Processing Adjustment for PC‚ Fully interactive Coffee Machine‚ New Areas‚ Water and Fire upgrades for Quest and so much more․ Come inside and warm up with your favorite video on․ Enjoy your Stay․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_f775680e-5265-4a2d-aca5-7d15cc7f9a0b",
+                "Name": "ODESZA - Corners of the Earth",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "ODESZA - Corners of the Earth",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_4b6b9c63-d169-437f-a427-1069ea9eb1d7",
+                "Name": "Nekles Arctic Island",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "An Island in the middle of the Arctic․ Made by Sly for Nekles․ Snow‚ aurora‚ and much moreǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_3fd2051a-5e20-48a4-830e-c0abb7300040",
+                "Name": "冬空カフェ-winter sky cafe-",
+                "RecommendedCapacity": 32,
+                "Capacity": 32,
+                "Description": "寒い冬には温かいコーヒーを一杯いかがでしょう。How about a cup of hot coffee in the cold winter?",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            }
+        ]
+    },
+    {
+        "Category": "第147回 暑い",
+        "Worlds": [
+            {
+                "ID": "wrld_0994acdd-d41c-4d43-a626-f1d5dc1050b9",
+                "Name": "こたつ -kotatsu-",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "あったかこたつとプラネタリウム",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_6d4c4819-f0ae-480b-a098-e07cab28bf02",
+                "Name": "暑さ限界 ～Just Hot～",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "ダイスケ的にもオールオッケーだといいな。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_eba5f36e-dd39-48ef-abe2-97135bdebe58",
+                "Name": "The Firelands",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "Venture into the Firelands‚ the blistering domain of Ragnaros‚ the Firelord‚ hidden within Azeroths Elemental Plane․ Scorched landscapes‚ rivers of lava‚ and towering obsidian spires mark this volatile realm‚ where ancient elementals and smoldering beasts stand ready to defend their fiery lord․ As the very air shimmers with heat‚ brace yourself to experience a world forever burning - a world where only the bold survive․ 14-11-2024",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_23c93d63-e6d8-44ef-9c68-bbe53514bd3c",
+                "Name": "Cave Sauna -Johannesburg-",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "A cave sauna where demons rest․ The sauna dragon flame Aufguss is a must experience․魔物たちが休む洞窟サウナ。サウナドラゴンの炎アウフグースはぜひ体験してみて。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_f751aff9-7e4b-4f57-80bc-5bad6d62e2f4",
+                "Name": "Toast Yourself",
+                "RecommendedCapacity": 9,
+                "Capacity": 32,
+                "Description": "Experience the Crusty Crinkly Experience",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_3f8575b7-13c3-4b97-8461-2077101ad9d3",
+                "Name": "Furality Umbra˸ Crevice Village",
+                "RecommendedCapacity": 80,
+                "Capacity": 80,
+                "Description": "Furality Umbra˸ Crevice Village",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_13b029af-59fb-4493-a198-5e654e5f30ec",
+                "Name": "Just 電子レンジ生活",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "セルフチンボタンあります",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_a2ae3565-c419-48b5-bd65-aed4d3b4a361",
+                "Name": "The Oasis‚ Ancients Hide",
+                "RecommendedCapacity": 32,
+                "Capacity": 80,
+                "Description": "Of once where stars shine‚ to the skies where ancients fly․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_17cb83b1-d63e-43eb-b85d-a390c20bec64",
+                "Name": "真夏、往時の如し",
+                "RecommendedCapacity": 24,
+                "Capacity": 32,
+                "Description": "木々に蟬声、 清いさえずり、真夏に団らん、往時は昨今の如し",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_f3fbb28f-f83f-4ed4-a6fc-8a20c9d7d43e",
+                "Name": "Observatorium Aureatus",
+                "RecommendedCapacity": 15,
+                "Capacity": 30,
+                "Description": "One step closer to the divine․․․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_e9a31011-8401-4b72-af0f-0d7595328c0c",
+                "Name": "Summer Solitude",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "A Summer evening overlooking Hong Kong․ Naturally lit room․ Mirrors‚ Movie room‚ Pens‚ Pool and moreǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            }
+        ]
     }
 ]
