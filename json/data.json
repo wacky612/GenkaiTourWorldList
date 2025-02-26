@@ -560,7 +560,7 @@
                     "PC": true,
                     "Android": true
                 },
-                "ReleaseStatus": "public"
+                "ReleaseStatus": "private"
             },
             {
                 "ID": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
@@ -1215,7 +1215,7 @@
                 "Name": "MARSIUM_HALL",
                 "RecommendedCapacity": 30,
                 "Capacity": 60,
-                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2024⁄12⁄23 更新",
+                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2025⁄02⁄06 更新",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -2027,8 +2027,8 @@
             {
                 "ID": "wrld_c215101b-8f13-408c-8bc6-1687cf87762f",
                 "Name": "Hwabon Night （화본역）",
-                "RecommendedCapacity": 30,
-                "Capacity": 30,
+                "RecommendedCapacity": 40,
+                "Capacity": 40,
                 "Description": "It's a small train station in Korea",
                 "Platform": {
                     "PC": true,
@@ -2687,7 +2687,7 @@
             },
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
-                "Name": "Sweets Dishǃ - Valentine",
+                "Name": "Sweets Dishǃ",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
@@ -3310,7 +3310,7 @@
             },
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
-                "Name": "Sweets Dishǃ - Valentine",
+                "Name": "Sweets Dishǃ",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
@@ -4107,7 +4107,7 @@
                 "Name": "雑草",
                 "RecommendedCapacity": 30,
                 "Capacity": 60,
-                "Description": "うおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお",
+                "Description": "うおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおセイキン！！！！！！愛して！！！ない！！！！！！！！！！",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -4198,8 +4198,8 @@
             {
                 "ID": "wrld_2b582af5-e972-4071-950d-6fb945393e2e",
                 "Name": "2丁目商店街（仮）",
-                "RecommendedCapacity": 16,
-                "Capacity": 32,
+                "RecommendedCapacity": 32,
+                "Capacity": 64,
                 "Description": "昭和の時代は栄えていましたが、年々人は減り今では見る影もありません。完成度45％",
                 "Platform": {
                     "PC": true,
@@ -4986,7 +4986,7 @@
             },
             {
                 "ID": "wrld_8e165575-b0ad-407c-8df0-80e0312548c3",
-                "Name": "Yayoi twilight lackside",
+                "Name": "Yayoi twilight lakeside",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
                 "Description": "7ヶ月ぶりのゆにてぃ遊び",
@@ -5878,7 +5878,7 @@
                 "Name": "Breathing",
                 "RecommendedCapacity": 20,
                 "Capacity": 40,
-                "Description": "Sometimes I just want to know the exactly what's reality is․ Maybe this place is enough for me to breath․․․․ Note․ There is no mirrors in this world ǃ WIPǃ",
+                "Description": "Sometimes I just want to know the exactly what's reality is․ Maybe this place is enough for me to breath․․․․ Note․ There is no mirrors in this world",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -7445,7 +7445,7 @@
         "Worlds": [
             {
                 "ID": "wrld_a3721aaa-3c06-4ce2-9b70-390add2a85b1",
-                "Name": "VRChatここから始めました -Kokokara JP-",
+                "Name": "VRChatここから始めました （Kokokara）【JP】",
                 "RecommendedCapacity": 32,
                 "Capacity": 32,
                 "Description": "VisitorはTrustedに、TrustedはVisitorに、なってゆきます。 技術担当：mameneko・kimkim0106",
@@ -8561,7 +8561,7 @@
                 "Name": "寝台特急北極星-Test Run-",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "架空の寝台列車、北極星号のテストワールドです。iwasyncでお好みの走行音を流してお楽しみください。",
+                "Description": "架空の寝台列車、北極星号のテストワールドです。車窓部分は毎時0分、30分に駅に停車します。同期がおかしくなった場合はPCのシステム時間を確認するか、ワールドに入りなおしてください。",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -10281,7 +10281,7 @@
                 "Name": "Study Japanese World【 ジャパ日常 JapaNichijou 】by HiTs ＃JapaNichijou",
                 "RecommendedCapacity": 80,
                 "Capacity": 80,
-                "Description": "（Updated 2025 1⁄19） EventTime Sat 9AM （ JST ） Fri 7PM （ EST ） 12AM （ GMT ） ＆ Sun 11PM （ JST ） 2PM （ GMT ） 9AM （ EST ）․ ＋1 hour to areas with daylight savings （during summer） ǃ We gather together every weekend to have Japanese lessons and play games in Japanese etc․․․ǃ Feel free to join usǃ このワールドを使用して有料日本語学習コンテンツを作成しないでください～！",
+                "Description": "（Updated 2025 2⁄15） EventTime Sat 9AM （ JST ） Fri 7PM （ EST ） 12AM （ GMT ） ＆ Sun 11PM （ JST ） 2PM （ GMT ） 9AM （ EST ）․ ＋1 hour to areas with daylight savings （during summer） ǃ We gather together every weekend to have Japanese lessons and play games in Japanese etc․․․ǃ Feel free to join usǃ このワールドを使用して有料日本語学習コンテンツを作成しないでください～！",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -10769,7 +10769,7 @@
                 "Name": "Bird Cafe -HIDAMARI-",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "鳥さんたちと触れ合いながらくつろげる鳥カフェワールドです。［2024⁄11⁄22更新］カフェのメニューを追加・植木のモデル変更、その他全体的な表現方法の見直しを行いました。［2024⁄12⁄12更新］プレゼンテーション用ギミックSlidenを追加しました。",
+                "Description": "鳥さんたちと触れ合いながらくつろげる鳥カフェワールドです。交流イベント等で使えるギミックをいくつか配置しています。（プレゼンテーションギミック、ワールドメガホン、防音室、等）ギミックの使い方はカウンターのImagePadをご確認ください。",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -11326,10 +11326,10 @@
             },
             {
                 "ID": "wrld_0116a019-a276-4578-ab65-8cbb513f8b35",
-                "Name": "Portal Index -12272024-",
+                "Name": "Portal Index -01382025-",
                 "RecommendedCapacity": 40,
                 "Capacity": 80,
-                "Description": "Tag base search system for world portals; Amount of world˸ 1010 Update every monthǃ",
+                "Description": "Tag base search system for world portals; Amount of world˸ 1085 Update every monthǃ",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -12430,7 +12430,7 @@
                 "Name": "MARSIUM_HALL",
                 "RecommendedCapacity": 30,
                 "Capacity": 60,
-                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2024⁄12⁄23 更新",
+                "Description": "自作の楽器モデルを置いている音楽ホールのワールドです。2025⁄02⁄06 更新",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13446,10 +13446,10 @@
             },
             {
                 "ID": "wrld_f9747daf-54ce-40a6-a9ac-dd5bb00f2103",
-                "Name": "エレガント集会所（闇）Haunted Banquet Hall -Eleganttiqué-",
+                "Name": "エレガント集会所（夜）Haunted Banquet Hall˸ Night Version",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "深夜のエレガント集会所は不思議な事が起こる。Normally‚ this beautiful event hall is the site of many popular events‚ but tonight something is differentǃ The lounge‚ usually filled with cheerful chatter during the day‚ is now locked up tight after hours․ Could the ghosts have the key? Whatever you do‚ dont even think about going insideǃ A long hallway? Oh no‚ there isnt oneǃ The lounge is just on the other side of the doorǃ （Dont worry‚ its not so scary․）",
+                "Description": "深夜のエレガント集会所は不思議な事が起こる。Normally‚ this beautiful event hall is the site of many popular events‚ but tonight something is differentǃ The lounge‚ usually filled with cheerful chatter during the day‚ is now locked up tight after hours․ Could the ghosts have the key? Whatever you do‚ dont even think about going insideǃ A long hallway? Oh no‚ there isnt oneǃ The lounge is just on the other side of the doorǃ （Dont worry‚ its not so scary․）（このワールドには一部VRC貴族サロンの公式コンテンツが含まれます））",
                 "Platform": {
                     "PC": true,
                     "Android": true
