@@ -15565,5 +15565,219 @@
                 }
             }
         ]
+    },
+    {
+        "Category": "第148回 生き物",
+        "Worlds": [
+            {
+                "ID": "wrld_72f94d90-ec5d-4558-8cfc-ee3c48f02618",
+                "Name": "Akyoの惑星",
+                "RecommendedCapacity": 64,
+                "Capacity": 64,
+                "Description": "no akyo no life。ワールド内のAkyoは掴んで移動できます（一部座れるAkyoもあり）。みんなでアキョい写真を撮ろう！地下もあるのでさがしてみてね。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_6868ab2e-ed35-4978-92b6-abaa87674f28",
+                "Name": "あにまりあ -Animalia-",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "多種多様な動物たちが暮らす、自然豊かなワールドです。観覧車や路面電車に乗って景色を楽しめます。憩いの場としてご利用いただければ幸いです。【路面電車内の椅子はジャンプボタン長押しで降りられます】It is a world rich in nature where a wide variety of animals live․ You can enjoy the scenery by riding the Ferris wheel or tram․ We hope you will use it as a place to relax․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_fddc2eff-c599-4168-ae32-7c9f78dba977",
+                "Name": "The Dinosaur Bone Gallery Museum․",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "A prehistoric Dinosaur Museum with everything handmade from scratch in SculptrVR‚ Masterpiece Studio Pro‚ Tiltbrush‚ Shapelabs and Blender for tidy up․ Added Find my friends prefab‚ for help for late joiners to tours․ I'm currently working on a new improved version of this for a standalone museum experience․ Updated portals and entrance for the 79th Annual 2022 Venice Film Festival․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_774fd794-ccdb-4df4-a840-a4036c5f1207",
+                "Name": "Chimp Zone",
+                "RecommendedCapacity": 50,
+                "Capacity": 50,
+                "Description": "Welcome to Chimp Zoneǃ Join us and return to monkeǃ We also welcome all Planet of the Apes fansǃ UPDATE˸ Added City Ruinsǃ",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_3dd9347c-bf35-4f2d-9f85-4c337c3a1e14",
+                "Name": "POLYGONIA FOREST OF AMESHINOGI",
+                "RecommendedCapacity": 15,
+                "Capacity": 30,
+                "Description": "［WIP］ 惑星ポリゴニア ＂アメシノギの森＂ 第一調査拠点 調査中のため図鑑に空きあり（固着生物20⁄21、動点生物17⁄18）",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_134bb989-68ce-4941-bc05-f8530e8f02b4",
+                "Name": "Timeless",
+                "RecommendedCapacity": 15,
+                "Capacity": 30,
+                "Description": "BGM 柏木巴「Rue」 動画・配信での使用可",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_cd085851-4baf-4fb8-9a2a-e0e20f686502",
+                "Name": "Cycle of Life",
+                "RecommendedCapacity": 40,
+                "Capacity": 80,
+                "Description": "a cycle begins ․․․ take the rock to the lake to link the cycle of life and fulfill your duty‚ the drone will guide you",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_dff89d18-60db-4bba-80b8-762f6007a901",
+                "Name": "深海酒場フィッシュアンドチップス （Deep Sea Bar Fish and Chips）",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "FketWinter2024の3Fにある、鮫に囲まれているバーです。 名物はフィッシュアンドチップス。当店はセルフサービスとなっております。 （ This is a bar surrounded by sharks on the 3rd floor of FketWinter2024․ Their specialty is fish and chips․ This is a self-service bar․ ） --更新履歴-- ・酒瓶の群れが重いので、デフォルトで軽量モデルと差し替えました。デジタル時計の下にあるスイッチで、通常モデルに戻せます。 ・PCの酒瓶のMatCap用のシェーダーを軽量化の為、変更しました。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            }
+        ]
+    },
+    {
+        "Category": "第149回 機械(パート2)",
+        "Worlds": [
+            {
+                "ID": "wrld_2a1223ed-300a-4550-95ff-48f067930ae0",
+                "Name": "Gaming PC",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "inside a computer - audiolink - protv",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_11bf825d-8764-434e-9a79-f283be8c8921",
+                "Name": "Kyocera Laser World ⁄ 京セラ",
+                "RecommendedCapacity": 20,
+                "Capacity": 40,
+                "Description": "主に開発中の京セラレーザー製品の完成イメージをご覧いただけます。またレーザー光源が作り出す新たな未来と称して光無線通信Li-Fiの応用例として期待される水中ドローンが動作する様子をご覧いただけるアトラクションを用意しております。イベント開催期間˸6⁄29-7⁄2（20˸00-23˸00）フロアツアーは20時、21時、22時",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_bc12ae9b-ffba-4d35-b7d8-83127649782a",
+                "Name": "Hedonism",
+                "RecommendedCapacity": 80,
+                "Capacity": 80,
+                "Description": "Pressing F12 in desktop mode breaks the screen․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_2142ea4d-3faf-49af-8cb1-392fcbf013cc",
+                "Name": "SARUSHIMA WORLD（メタバースヨコスカ）",
+                "RecommendedCapacity": 16,
+                "Capacity": 50,
+                "Description": "2月10日から4月7日まで、横須賀美術館「日本の巨大ロボット群像」展とメタバースヨコスカがコラボレーション！ 横須賀在住で「超時空要塞マクロス」や「宇宙戦艦ヤマト」などの作品で知られるメカニックデザイナー、宮武一貴氏のデザインした巨大ロボ「みかさ」が猿島に降り立ちます！ ［ 猿島ワールドについて ］ 東京湾の空に浮かぶ未来の「猿島」では島全体を舞台にしたゲームを楽しめます。ゲームモードはチームで得点を競うスコアマッチモードと、フラッグを相手陣地まで運ぶフラッグ戦モードの２つから選択。地形を味方につけ、霊験あらたかな猿が放つ光の玉で相手チームを押し返し、ゲームを有利に進めましょう！ メタバースヨコスカ公式Webサイト https˸⁄⁄metaverse-yokosuka․com",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_e4676e26-37c1-412e-ab0c-2598924c9c81",
+                "Name": "ジハンキ․ホーテ VRCの殿堂（Japanese vending machines museum）Ver․4",
+                "RecommendedCapacity": 16,
+                "Capacity": 32,
+                "Description": "This is a museum of unique Japanese vending machines․ The motif is a very famous discount store in Japan․ ウィンドウショッピングVol․5は、全国から少し変わった自動販売機を集めたワールド！ とても大好きな、有名ディスカウントストアをモチーフにしています。 お近くで利用できる自販機を検索して、ぜひ現実でも買い物してみてください！ 今回もハリネズミ探しゲームがあります。ぜひ遊んでみてね！",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_52d5dd9e-3b33-4cf2-a41b-cfd1a71640c8",
+                "Name": "Oxymore Official World",
+                "RecommendedCapacity": 80,
+                "Capacity": 80,
+                "Description": "The official virtual world of OXYMORE by Jean-Michel Jarre created by VRROOM․ A new concert starts every hour （e․g․ 3˸00‚ 4˸00‚ etc․․․） and brings you on a magical journey inside an Oxyville‚ a virtual post-industrial city inspired by iconic musical instruments of the earliest stages of electronic music and an homage to Pierre Henry․ ∗Webby Public Choice Award Winner 2023∗ ⁄⁄ Producer's Guild of America Innovation Award 2023 Nominee ∗ ∗Crystal Owl Award ＠ Stereopsia Winner 2022 ∗ ⁄⁄ Raindance Honorary Mentioning 2022 ∗ ⁄⁄ A-Maze Honorary Mentioning 2023 ∗ ⁄⁄ Created by VRROOM ⁄⁄",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            },
+            {
+                "ID": "wrld_ff414a30-31e3-44bb-9c8e-3d721e895b0b",
+                "Name": "Complex 7",
+                "RecommendedCapacity": 80,
+                "Capacity": 80,
+                "Description": "The sequel to District Roboto‚ Complex 7 features a world 7 times larger‚ full of NPC‚ collectible‚ unlockable avatars‚ and hidden secrets․ Discover the dark history behind this technicolor world of life and curiosity․ ［World Pre-Loading HIGHLY Recommended］All actions are local․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_b7d1f714-cca2-437c-9b7c-efb34782d08a",
+                "Name": "Reactor",
+                "RecommendedCapacity": 30,
+                "Capacity": 60,
+                "Description": "A hidden laboratory containing a reactor․ An RP world for Metaverse․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false
+                }
+            },
+            {
+                "ID": "wrld_4e162934-d9a9-4c40-9ece-2a83505c44d1",
+                "Name": "Justピタゴラスイッチ Marble Machine",
+                "RecommendedCapacity": 64,
+                "Capacity": 64,
+                "Description": "科学館によくあるピタゴラスイッチ的なものを再現してみました。英語ではMarbleMachineと言うようです。わたしが作ったアバターと衣装も展示しています。ベッドは寝る判定OnOffスイッチ付きです。9⁄17 NightMode追加しました。",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": true
+                }
+            }
+        ]
     }
 ]
