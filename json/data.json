@@ -2813,8 +2813,8 @@
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
                 "Name": "Sweets Dishǃ",
-                "RecommendedCapacity": 60,
-                "Capacity": 80,
+                "RecommendedCapacity": 40,
+                "Capacity": 40,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
                 "Platform": {
                     "PC": true,
@@ -3436,8 +3436,8 @@
             {
                 "ID": "wrld_e48cb437-10bc-458f-8d20-e965cff84578",
                 "Name": "Sweets Dishǃ",
-                "RecommendedCapacity": 60,
-                "Capacity": 80,
+                "RecommendedCapacity": 40,
+                "Capacity": 40,
                 "Description": "Sweets DJ world／Quest Readyǃ／OneTime StreamKey （Topaz）／VRCDN／Tag˸ ＃SweetsDish／Manual˸ https˸⁄⁄bit․ly⁄3UTvA4O",
                 "ReleaseStatus": "public",
                 "Platform": {
@@ -8121,7 +8121,7 @@
                 "Name": "Himmel",
                 "RecommendedCapacity": 32,
                 "Capacity": 64,
-                "Description": "4",
+                "Description": "Environment and music by me․ Please turn up world volume ˸）",
                 "Platform": {
                     "PC": true,
                     "Android": false
@@ -8553,7 +8553,7 @@
             },
             {
                 "ID": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-                "Name": "Japan Shrine［winter］",
+                "Name": "Japan Shrine［spring］",
                 "RecommendedCapacity": 30,
                 "Capacity": 50,
                 "Description": "This world is a legitimate sequel by the author of the first ＂Japan Shrine＂ published in 2018․ このワールドは2018年に公開した最初の『Japan Shrine』の作者による正統な続編です。The mobile（Quest） version will be the 2018 Japan Shrine․モバイル（Quest）版は2018年のJapan Shrineになります。",
@@ -10406,7 +10406,7 @@
                 "Name": "Study Japanese World【 ジャパ日常 JapaNichijou 】by HiTs ＃JapaNichijou",
                 "RecommendedCapacity": 80,
                 "Capacity": 80,
-                "Description": "（Updated 2025 2⁄15） EventTime Sat 9AM （ JST ） Fri 7PM （ EST ） 12AM （ GMT ） ＆ Sun 11PM （ JST ） 2PM （ GMT ） 9AM （ EST ）․ ＋1 hour to areas with daylight savings （during summer） ǃ We gather together every weekend to have Japanese lessons and play games in Japanese etc․․․ǃ Feel free to join usǃ このワールドを使用して有料日本語学習コンテンツを作成しないでください～！",
+                "Description": "（Updated 2025 2⁄21） EventTime Sat 9AM （ JST ） Fri 7PM （ EST ） 12AM （ GMT ） ＆ Sun 11PM （ JST ） 2PM （ GMT ） 9AM （ EST ）․ ＋1 hour to areas with daylight savings （during summer） ǃ We gather together every weekend to have Japanese lessons and play games in Japanese etc․․․ǃ Feel free to join usǃ このワールドを使用して有料日本語学習コンテンツを作成しないでください～！",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -10706,7 +10706,7 @@
         "Worlds": [
             {
                 "ID": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-                "Name": "Japan Shrine［winter］",
+                "Name": "Japan Shrine［spring］",
                 "RecommendedCapacity": 30,
                 "Capacity": 50,
                 "Description": "This world is a legitimate sequel by the author of the first ＂Japan Shrine＂ published in 2018․ このワールドは2018年に公開した最初の『Japan Shrine』の作者による正統な続編です。The mobile（Quest） version will be the 2018 Japan Shrine․モバイル（Quest）版は2018年のJapan Shrineになります。",
@@ -13297,7 +13297,7 @@
             },
             {
                 "ID": "wrld_057b9b0f-a9c1-4f3c-b002-058a658e2217",
-                "Name": "中文吧 Chinese Bar 7․1․6［CN＼HK＼TW］",
+                "Name": "中文吧 Chinese Bar 7․2․2［CN＼HK＼TW］",
                 "RecommendedCapacity": 20,
                 "Capacity": 80,
                 "Description": "国人聚集地 By˸ 信标工作室",
@@ -13312,7 +13312,7 @@
                 "Name": "［JP］Tutorial world",
                 "RecommendedCapacity": 25,
                 "Capacity": 30,
-                "Description": "日本人の初心者の方向けの各種解説ワールドです。1102更新",
+                "Description": "日本人の初心者の方向けの各種解説ワールドです。0224更新",
                 "Platform": {
                     "PC": true,
                     "Android": true
@@ -13946,7 +13946,7 @@
             },
             {
                 "ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
-                "Name": "Japan Street 0․435",
+                "Name": "Japan Street 0․436",
                 "RecommendedCapacity": 60,
                 "Capacity": 80,
                 "Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
@@ -14538,7 +14538,7 @@
                 "Name": "Sushi Aquarium 海洋棟",
                 "RecommendedCapacity": 16,
                 "Capacity": 32,
-                "Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数39種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。",
+                "Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数約70種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。",
                 "ReleaseStatus": "public",
                 "Platform": {
                     "PC": true,
@@ -15134,7 +15134,7 @@
                 "Name": "CONCRETE JUNGLE",
                 "RecommendedCapacity": 80,
                 "Capacity": 80,
-                "Description": "Outside the SECT․ blocks‚ a patch of overgrown buildings known as the ''Concrete Jungle'' had become a rare refuge․ With fresh air and vegetation‚ it was a beacon of hope․ The survivors here had even managed to get an old train running and had planes flying out to evacuate people to safety․ The Concrete Jungle‚ once a forgotten corner‚ became a symbol of renewal and hope․",
+                "Description": "［NOISIA MEMORIAL UPDATE］ ․ Outside the SECT․ blocks‚ a patch of overgrown buildings known as the ''Concrete Jungle'' had become a rare refuge․ With fresh air and vegetation‚ it was a beacon of hope․ The survivors here had even managed to get an old train running and had planes flying out to evacuate people to safety․ The Concrete Jungle‚ once a forgotten corner‚ became a symbol of renewal and hope․",
                 "ReleaseStatus": "public",
                 "Platform": {
                     "PC": true,
