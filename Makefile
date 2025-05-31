@@ -1,8 +1,8 @@
 curdir := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 
-.PHONY: all prepare wget merge complement partial-update deploy clean
+.PHONY: all prepare wget merge complement symlink update partial-update deploy clean
 
-all: wget merge complement
+all: wget merge complement symlink
 
 prepare: .venv gh-pages
 
@@ -22,10 +22,17 @@ merge:
 complement:
 	$(curdir)/.venv/bin/python complement.py
 
+symlink:
+	/usr/bin/python symlink.py
+
+update:
+	$(curdir)/.venv/bin/python update.py
+
 partial-update:
-	$(curdir)/.venv/bin/python update_world_information_without_auth.py
+	$(curdir)/.venv/bin/python partial_update.py
 
 deploy:
+	/bin/sh ffmpeg.sh
 	/bin/sh deploy.sh
 
 clean:

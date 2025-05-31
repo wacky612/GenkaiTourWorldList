@@ -31,7 +31,7 @@ with vrchatapi.ApiClient() as api_client:
                     #data[c]['Worlds'][w]['Platform']            = {}
                     #data[c]['Worlds'][w]['Platform']['PC']      = pc
                     #data[c]['Worlds'][w]['Platform']['Android'] = android
-                    
+
                     print(f'第{c+1:03}回-{w+1:02} Updated   ワールド名: {world.name}')
 
                 except vrchatapi.exceptions.NotFoundException:

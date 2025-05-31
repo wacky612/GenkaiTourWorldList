@@ -13,6 +13,7 @@ from pathlib import Path
 auth   = json.loads(Path('private/auth.json').read_text())
 cookie = json.loads(Path('private/cookie.json').read_text())
 data   = json.loads(Path('json/data.json').read_text())
+skip   = json.loads(Path('json/skip.json').read_text())
 
 def make_cookie(name, value):
     return Cookie(0, name, value,
@@ -30,7 +31,7 @@ configuration = vrchatapi.Configuration(
     password = auth['Password'],
 )
 
-with vrchatapi.ApiClient(configuration) as api_client:
+with vrchatapi.ApiClient() as api_client:
     api_client.user_agent = 'WorldInformationFetcher'
     api_client.rest_client.cookie_jar.set_cookie(make_cookie('auth'         , cookie['AuthCookie']         ))
     api_client.rest_client.cookie_jar.set_cookie(make_cookie('twoFactorAuth', cookie['TwoFactorAuthCookie']))
@@ -43,7 +44,7 @@ with vrchatapi.ApiClient(configuration) as api_client:
 
     for c in range(0, len(data)):
         for w in range(0, len(data[c]['Worlds'])):
-            if (data[c]['Worlds'][w]['ID'] is not None) and (not ('Platform' in data[c]['Worlds'][w])):
+            if (data[c]['Worlds'][w]['ID'] is not None) and (not (data[c]['Worlds'][w]['ID'] in skip)):
                 try:
                     world = worlds_api.get_world(data[c]['Worlds'][w]['ID'])
                     data[c]['Worlds'][w]['Name']                = world.name
@@ -63,7 +64,7 @@ with vrchatapi.ApiClient(configuration) as api_client:
 
                     response = api_client.request('GET', world.thumbnail_image_url)
                     Path(f'thumbnail/img/{data[c]['Worlds'][w]['ID']}.png').write_bytes(response.data)
-                    
+
                     print(f'第{c+1:03}回-{w+1:02} Updated   ワールド名: {world.name}')
 
                 except vrchatapi.exceptions.NotFoundException:
