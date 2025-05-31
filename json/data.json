@@ -1040,7 +1040,8 @@
                 "Description": "Осталась лишь воспоминанием․",
                 "Platform": {
                     "PC": true,
-                    "Android": false
+                    "Android": false,
+                    "iOS": false
                 },
                 "ReleaseStatus": "public"
             },
