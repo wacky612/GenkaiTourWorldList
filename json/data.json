@@ -22241,9 +22241,16 @@
         "Worlds": [
             {
                 "ID": "wrld_52c80edc-b1b8-4134-9102-05b602f505bc",
-                "Name": "",
+                "Name": "обратном",
                 "RecommendedCapacity": 40,
-                "Capacity": 80
+                "Capacity": 80,
+                "Description": "Осталась лишь воспоминанием․",
+                "ReleaseStatus": "public",
+                "Platform": {
+                    "PC": true,
+                    "Android": false,
+                    "iOS": false
+                }
             },
             {
                 "ID": "wrld_d8e56997-7303-44a9-ac0d-b6edb1c81331",
