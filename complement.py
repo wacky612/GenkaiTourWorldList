@@ -13,6 +13,7 @@ from pathlib import Path
 auth   = json.loads(Path('private/auth.json').read_text())
 cookie = json.loads(Path('private/cookie.json').read_text())
 data   = json.loads(Path('json/data.json').read_text())
+skip   = json.loads(Path('json/skip.json').read_text())
 
 def make_cookie(name, value):
     return Cookie(0, name, value,
@@ -43,7 +44,9 @@ with vrchatapi.ApiClient(configuration) as api_client:
 
     for c in range(0, len(data)):
         for w in range(0, len(data[c]['Worlds'])):
-            if (data[c]['Worlds'][w]['ID'] is not None) and (not ('Platform' in data[c]['Worlds'][w])):
+            if ((data[c]['Worlds'][w]['ID'] is not None)
+                and (not (data[c]['Worlds'][w]['ID'] in skip))
+                and (not ('Platform' in data[c]['Worlds'][w]))):
                 try:
                     world = worlds_api.get_world(data[c]['Worlds'][w]['ID'])
                     data[c]['Worlds'][w]['Name']                = world.name
