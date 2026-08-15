@@ -1,0 +1,26 @@
+version: '3'
+
+tasks:
+  default:
+    cmds:
+      - task --list-all
+  fetch:
+    cmds:
+      - wget -O cache/themes.json $(cat private/ivs_url)
+  merge:
+    cmds:
+      - python scripts/merge.py
+  update:
+    cmds:
+      - python scripts/update.py
+  build:
+    cmds:
+      - python scripts/build_json.py
+      - python scripts/build_mp4.py
+  deploy:
+    dir: build
+    cmds:
+      - git add data.json
+      - git add thumbmail.mp4
+      - git commit --amend --no-edit
+      - git -c core.sshCommand="ssh -i ../private/ssh/id_ed25519 -F /dev/null" push -f
