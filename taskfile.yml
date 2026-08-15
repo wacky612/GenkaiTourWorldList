@@ -4,17 +4,13 @@ tasks:
   default:
     cmds:
       - task --list-all
-  fetch:
-    cmds:
-      - wget -O cache/themes.json $(cat private/ivs_url)
-  merge:
-    cmds:
-      - python scripts/merge.py
   update:
     cmds:
       - python scripts/update.py
   build:
     cmds:
+      - wget -O cache/themes.json $(cat private/ivs_url)
+      - python scripts/merge.py
       - uv run scripts/build_json.py
       - uv run scripts/build_mp4.py
   deploy:
