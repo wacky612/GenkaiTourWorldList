@@ -15,8 +15,8 @@ tasks:
       - python scripts/update.py
   build:
     cmds:
-      - python scripts/build_json.py
-      - python scripts/build_mp4.py
+      - uv run scripts/build_json.py
+      - uv run scripts/build_mp4.py
   deploy:
     dir: build
     cmds:
