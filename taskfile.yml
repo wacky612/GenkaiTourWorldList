@@ -6,7 +6,7 @@ tasks:
       - task --list-all
   update:
     cmds:
-      - python scripts/update.py
+      - uv run scripts/update.py
   build:
     cmds:
       - wget -O cache/themes.json $(cat private/ivs_url)
