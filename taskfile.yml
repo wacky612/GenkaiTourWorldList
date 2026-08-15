@@ -21,6 +21,6 @@ tasks:
     dir: build
     cmds:
       - git add data.json
-      - git add thumbmail.mp4
+      - git add thumbnail.mp4
       - git commit --amend --no-edit
       - git -c core.sshCommand="ssh -i ../private/ssh/id_ed25519 -F /dev/null" push -f
