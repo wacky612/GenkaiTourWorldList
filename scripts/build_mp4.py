@@ -35,7 +35,7 @@ async def fetch_thumbnails(tmpdir, lists, index):
     return index
 
 async def main():
-    lists = json.loads(Path('data/world_list.json').read_text())
+    lists = json.loads(Path('build/data.json').read_text())['Categorys']
 
     with tempfile.TemporaryDirectory() as tmpdir:
         shutil.copy(Path('image/black.png'), Path(f'{tmpdir}/00000.png'))

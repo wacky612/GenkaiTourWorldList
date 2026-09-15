@@ -15,9 +15,15 @@ async def fetch_world_info(client, world):
     if world_id is not None:
         response = await client.get(CACHE_SERVER_URL + f'/world/{world_id}/info')
         new_world = json.loads(response.text)
-        keys = ['ID', 'Name', 'RecommendedCapacity', 'Capacity',
-                'Description', 'ReleaseStatus', 'Platform']
-        return { key: new_world[key] for key in keys }
+
+        if 'ID' in new_world:
+            keys = ['ID', 'Name', 'RecommendedCapacity', 'Capacity',
+                    'Description', 'ReleaseStatus', 'Platform']
+            return { key: new_world[key] for key in keys }
+        else:
+            new_world['ID']   = None
+            new_world['Name'] = world_name
+            return new_world
     else:
         new_world = {}
         new_world['ID']   = world_id
